@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2016-12-26T17:50:02Z"/>
+
+  <node id="365796370" lat="-3.7305017" lon="-38.6555317"/>
+  <node id="365796371" lat="-3.7297309" lon="-38.6555145"/>
+  <node id="365796373" lat="-3.7289329" lon="-38.6562405"/>
+  <node id="365796545" lat="-3.7281386" lon="-38.6583510"/>
+  <node id="365796589" lat="-3.7281490" lon="-38.6576852"/>
+  <node id="365796628" lat="-3.7300563" lon="-38.6593082">
+    <tag k="flag" v="http://upload.wikimedia.org/wikipedia/commons/b/b2/Bandeira_caucaia_ce.gif"/>
+    <tag k="is_in" v="Ceará, Brazil"/>
+    <tag k="name" v="Caucaia"/>
+    <tag k="name:bg" v="Каукая"/>
+    <tag k="name:ka" v="კაუკაია"/>
+    <tag k="name:kk" v="Каукая"/>
+    <tag k="name:ko" v="카우카이아"/>
+    <tag k="name:lt" v="Kaukaja"/>
+    <tag k="name:lv" v="Kaukaja"/>
+    <tag k="name:pt" v="Caucaia"/>
+    <tag k="name:ru" v="Каукая"/>
+    <tag k="name:sr" v="Каукаја"/>
+    <tag k="name:zh" v="考卡亞"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="325441"/>
+    <tag k="website" v="http://www.caucaia.ce.gov.br/"/>
+    <tag k="wikipedia" v="pt:Caucaia"/>
+  </node>
+  <node id="595250555" lat="-3.7213315" lon="-38.6594187"/>
+  <node id="595250556" lat="-3.7213207" lon="-38.6592471"/>
+  <node id="595250559" lat="-3.7212672" lon="-38.6590647"/>
+  <node id="595250560" lat="-3.7212030" lon="-38.6589467"/>
+  <node id="595250894" lat="-3.7216741" lon="-38.6594617"/>
+  <node id="595250896" lat="-3.7215028" lon="-38.6593651"/>
+  <node id="595250898" lat="-3.7213957" lon="-38.6592364"/>
+  <node id="595251216" lat="-3.7215349" lon="-38.6527561"/>
+  <node id="595251217" lat="-3.7214171" lon="-38.6533355"/>
+  <node id="595251218" lat="-3.7213315" lon="-38.6539900"/>
+  <node id="595251219" lat="-3.7212993" lon="-38.6548268"/>
+  <node id="1651470184" lat="-3.7250623" lon="-38.6594802"/>
+  <node id="1651470189" lat="-3.7256974" lon="-38.6593114"/>
+  <node id="1651470194" lat="-3.7262744" lon="-38.6590061"/>
+  <node id="1651470216" lat="-3.7281768" lon="-38.6575144"/>
+  <node id="1651470217" lat="-3.7284516" lon="-38.6569079"/>
+  <node id="1651470218" lat="-3.7286633" lon="-38.6566042"/>
+  <node id="1651470238" lat="-3.7301061" lon="-38.6518347"/>
+  <node id="1714888356" lat="-3.7218701" lon="-38.6570296"/>
+  <node id="1714888369" lat="-3.7219765" lon="-38.6565786"/>
+  <node id="1714888371" lat="-3.7220675" lon="-38.6539731"/>
+  <node id="1714888374" lat="-3.7220968" lon="-38.6560682"/>
+  <node id="1714888377" lat="-3.7222099" lon="-38.6555882"/>
+  <node id="1714888379" lat="-3.7223336" lon="-38.6550633"/>
+  <node id="1714888381" lat="-3.7225368" lon="-38.6551098"/>
+  <node id="1714888383" lat="-3.7225729" lon="-38.6546031"/>
+  <node id="1714888385" lat="-3.7226438" lon="-38.6541126"/>
+  <node id="1714888388" lat="-3.7229152" lon="-38.6530930"/>
+  <node id="1714888390" lat="-3.7230551" lon="-38.6573832"/>
+  <node id="1714888404" lat="-3.7231242" lon="-38.6523078"/>
+  <node id="1714888410" lat="-3.7231880" lon="-38.6568575"/>
+  <node id="1714888415" lat="-3.7233154" lon="-38.6563541"/>
+  <node id="1714888416" lat="-3.7234386" lon="-38.6558669"/>
+  <node id="1714888420" lat="-3.7235644" lon="-38.6553697"/>
+  <node id="1714888424" lat="-3.7236837" lon="-38.6548978"/>
+  <node id="1714888444" lat="-3.7238109" lon="-38.6543951"/>
+  <node id="1714888447" lat="-3.7240897" lon="-38.6533793"/>
+  <node id="1714888450" lat="-3.7241796" lon="-38.6530520"/>
+  <node id="1714888452" lat="-3.7242404" lon="-38.6576554"/>
+  <node id="1714888453" lat="-3.7242634" lon="-38.6529985"/>
+  <node id="1714888460" lat="-3.7243704" lon="-38.6571311"/>
+  <node id="1714888462" lat="-3.7244882" lon="-38.6566566"/>
+  <node id="1714888477" lat="-3.7246063" lon="-38.6561803"/>
+  <node id="1714888481" lat="-3.7246179" lon="-38.6577105"/>
+  <node id="1714888489" lat="-3.7247295" lon="-38.6556811"/>
+  <node id="1714888494" lat="-3.7249641" lon="-38.6562626"/>
+  <node id="1714888497" lat="-3.7249753" lon="-38.6546770"/>
+  <node id="1714888508" lat="-3.7251960" lon="-38.6576614"/>
+  <node id="1714888510" lat="-3.7251816" lon="-38.6538343"/>
+  <node id="1714888511" lat="-3.7252315" lon="-38.6536735"/>
+  <node id="1714888516" lat="-3.7252541" lon="-38.6535545"/>
+  <node id="1714888518" lat="-3.7253102" lon="-38.6594143"/>
+  <node id="1714888531" lat="-3.7255056" lon="-38.6563872"/>
+  <node id="1714888546" lat="-3.7257527" lon="-38.6577151"/>
+  <node id="1714888550" lat="-3.7260299" lon="-38.6565078"/>
+  <node id="1714888565" lat="-3.7261648" lon="-38.6594386"/>
+  <node id="1714888590" lat="-3.7263844" lon="-38.6573932"/>
+  <node id="1714888629" lat="-3.7268882" lon="-38.6544729"/>
+  <node id="1714888634" lat="-3.7272982" lon="-38.6567996"/>
+  <node id="1714888636" lat="-3.7273316" lon="-38.6582778"/>
+  <node id="1714888669" lat="-3.7280774" lon="-38.6517205"/>
+  <node id="1714888672" lat="-3.7281902" lon="-38.6568619"/>
+  <node id="1714888718" lat="-3.7286299" lon="-38.6519213"/>
+  <node id="1714888728" lat="-3.7287824" lon="-38.6519562"/>
+  <node id="1714888746" lat="-3.7291042" lon="-38.6519948"/>
+  <node id="1714888754" lat="-3.7294513" lon="-38.6521271"/>
+  <node id="1714888774" lat="-3.7297984" lon="-38.6521957"/>
+  <node id="1714888790" lat="-3.7300977" lon="-38.6522171"/>
+  <node id="2365016690" lat="-3.7257020" lon="-38.6518500"/>
+  <node id="2365016730" lat="-3.7268630" lon="-38.6519330"/>
+  <node id="2365016772" lat="-3.7281180" lon="-38.6517800"/>
+  <node id="2365016777" lat="-3.7282280" lon="-38.6521820"/>
+  <node id="2365016786" lat="-3.7286160" lon="-38.6519500"/>
+  <node id="2365016795" lat="-3.7290240" lon="-38.6522290"/>
+  <node id="2365016800" lat="-3.7291980" lon="-38.6520660"/>
+  <node id="2365016805" lat="-3.7293970" lon="-38.6521680"/>
+  <node id="2863453886" lat="-3.7273205" lon="-38.6546312"/>
+  <node id="2863453889" lat="-3.7276524" lon="-38.6546688"/>
+  <node id="2863453898" lat="-3.7280325" lon="-38.6546795"/>
+  <node id="2863453899" lat="-3.7270957" lon="-38.6545668"/>
+  <node id="2863460002" lat="-3.7214134" lon="-38.6541406"/>
+  <node id="2863460003" lat="-3.7265641" lon="-38.6566307"/>
+  <node id="2863460005" lat="-3.7298525" lon="-38.6546929"/>
+  <node id="2863460018" lat="-3.7214134" lon="-38.6558650"/>
+  <node id="2863460025" lat="-3.7213125" lon="-38.6544844"/>
+  <node id="2863460028" lat="-3.7305564" lon="-38.6547009"/>
+  <node id="2863460047" lat="-3.7212448" lon="-38.6559603"/>
+  <node id="2863460048" lat="-3.7216286" lon="-38.6539486"/>
+  <node id="2863460050" lat="-3.7274597" lon="-38.6546527"/>
+  <node id="2863460054" lat="-3.7290736" lon="-38.6546768"/>
+  <node id="2863460060" lat="-3.7213384" lon="-38.6558704"/>
+  <node id="2883937534" lat="-3.7305618" lon="-38.6569540"/>
+  <node id="2883937535" lat="-3.7304735" lon="-38.6568789"/>
+  <node id="2883937538" lat="-3.7304638" lon="-38.6562758"/>
+  <node id="2883937539" lat="-3.7304377" lon="-38.6567836"/>
+  <node id="2924165017" lat="-3.7301334" lon="-38.6522098"/>
+  <node id="2925518277" lat="-3.7230167" lon="-38.6522516"/>
+  <node id="3168637286" lat="-3.7212499" lon="-38.6548246"/>
+  <node id="3168637289" lat="-3.7212822" lon="-38.6539858"/>
+  <node id="3168637290" lat="-3.7213683" lon="-38.6533273"/>
+  <node id="3168637291" lat="-3.7214871" lon="-38.6527430"/>
+  <node id="3373656790" lat="-3.7275121" lon="-38.6537157"/>
+  <node id="3373656791" lat="-3.7276730" lon="-38.6521604"/>
+  <node id="3373656792" lat="-3.7273004" lon="-38.6520255"/>
+  <node id="3373656793" lat="-3.7268968" lon="-38.6519521"/>
+  <node id="3373656794" lat="-3.7267029" lon="-38.6530763"/>
+  <node id="3373656795" lat="-3.7266218" lon="-38.6537325"/>
+  <node id="3373656796" lat="-3.7265337" lon="-38.6542570"/>
+  <node id="3373656797" lat="-3.7271091" lon="-38.6537233"/>
+  <node id="3373656798" lat="-3.7275729" lon="-38.6531282"/>
+  <node id="3373656799" lat="-3.7271777" lon="-38.6531146"/>
+  <node id="3675776967" lat="-3.7283248" lon="-38.6576431"/>
+  <node id="3675785680" lat="-3.7257011" lon="-38.6518916"/>
+  <node id="3675785681" lat="-3.7283581" lon="-38.6572430"/>
+  <node id="3675785682" lat="-3.7288296" lon="-38.6564840"/>
+  <node id="3675785683" lat="-3.7291890" lon="-38.6565808"/>
+  <node id="3675785684" lat="-3.7297494" lon="-38.6566931"/>
+  <node id="3675785685" lat="-3.7292740" lon="-38.6576265"/>
+  <node id="3675785686" lat="-3.7287909" lon="-38.6576148"/>
+  <node id="3675793603" lat="-3.7289817" lon="-38.6533416"/>
+  <node id="3675793609" lat="-3.7287574" lon="-38.6564772"/>
+  <node id="3675793610" lat="-3.7279309" lon="-38.6563433"/>
+  <node id="3675793611" lat="-3.7293587" lon="-38.6533522"/>
+  <node id="3675793612" lat="-3.7295557" lon="-38.6521477"/>
+  <node id="3675793614" lat="-3.7238084" lon="-38.6527330"/>
+  <node id="3675793616" lat="-3.7247677" lon="-38.6532502"/>
+  <node id="3675793617" lat="-3.7251546" lon="-38.6517623"/>
+  <node id="3676320835" lat="-3.7297851" lon="-38.6533642"/>
+  <node id="3676320836" lat="-3.7300214" lon="-38.6522116"/>
+  <node id="3771829900" lat="-3.7211840" lon="-38.6593310"/>
+  <node id="3771829903" lat="-3.7212000" lon="-38.6583970"/>
+  <node id="3771829909" lat="-3.7214590" lon="-38.6535560"/>
+  <node id="3771829914" lat="-3.7216150" lon="-38.6527490"/>
+  <node id="3771829934" lat="-3.7222610" lon="-38.6518290"/>
+  <node id="3771831329" lat="-3.7252820" lon="-38.6594170"/>
+  <node id="3771831350" lat="-3.7260660" lon="-38.6591490"/>
+  <node id="3771831392" lat="-3.7247140" lon="-38.6594860"/>
+  <node id="3771831475" lat="-3.7272290" lon="-38.6545750"/>
+  <node id="3771831484" lat="-3.7276130" lon="-38.6580810"/>
+  <node id="3771831494" lat="-3.7279850" lon="-38.6546740"/>
+  <node id="3771831498" lat="-3.7281620" lon="-38.6577520"/>
+  <node id="3771831499" lat="-3.7283020" lon="-38.6577020"/>
+  <node id="3771831500" lat="-3.7283310" lon="-38.6577740"/>
+  <node id="3771831505" lat="-3.7285850" lon="-38.6569190"/>
+  <node id="3771831508" lat="-3.7287370" lon="-38.6566270"/>
+  <node id="3771831513" lat="-3.7294490" lon="-38.6557610"/>
+  <node id="3771831525" lat="-3.7298840" lon="-38.6555310"/>
+  <node id="3771831544" lat="-3.7305800" lon="-38.6555110"/>
+  <node id="3771831547" lat="-3.7306180" lon="-38.6546840"/>
+  <node id="3921743320" lat="-3.7305975" lon="-38.6539166"/>
+  <node id="3921743326" lat="-3.7292770" lon="-38.6557954"/>
+  <way id="24334125">
+    <nd ref="1714888636"/>
+    <nd ref="365796545"/>
+    <nd ref="365796544"/>
+    <nd ref="3675793608"/>
+    <nd ref="365796543"/>
+    <nd ref="365796542"/>
+    <nd ref="263973623"/>
+    <nd ref="1524517224"/>
+    <nd ref="4184048713"/>
+    <nd ref="2863453900"/>
+    <nd ref="1524517230"/>
+    <nd ref="1524517232"/>
+    <nd ref="4184048710"/>
+    <nd ref="1714992372"/>
+    <nd ref="1524517234"/>
+    <nd ref="1714888949"/>
+    <nd ref="1524517239"/>
+    <nd ref="1714992602"/>
+    <nd ref="1714888994"/>
+    <nd ref="4184055793"/>
+    <nd ref="4184055791"/>
+    <nd ref="4015349446"/>
+    <nd ref="1524517247"/>
+    <nd ref="4184542552"/>
+    <nd ref="1714889245"/>
+    <nd ref="1714889269"/>
+    <nd ref="2098436858"/>
+    <nd ref="1524517254"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Rua Barão de Ibiapaba"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="32529359">
+    <nd ref="365796373"/>
+    <nd ref="3921743326"/>
+    <nd ref="365796371"/>
+    <nd ref="365796370"/>
+    <nd ref="365796539"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Presidente Getúlio Vargas"/>
+  </way>
+  <way id="46527120">
+    <nd ref="595250694"/>
+    <nd ref="4184153805"/>
+    <nd ref="595250551"/>
+    <nd ref="595250552"/>
+    <nd ref="595250555"/>
+    <nd ref="595250556"/>
+    <nd ref="595250559"/>
+    <nd ref="595250560"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CE-085"/>
+    <tag k="source" v="Yahoo hires"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="46527180">
+    <nd ref="595250560"/>
+    <nd ref="595250778"/>
+    <nd ref="595250770"/>
+    <nd ref="2863460047"/>
+    <nd ref="595251219"/>
+    <nd ref="2863460025"/>
+    <nd ref="595251218"/>
+    <nd ref="595251217"/>
+    <nd ref="595251216"/>
+    <nd ref="595251215"/>
+    <nd ref="595251213"/>
+    <nd ref="595251212"/>
+    <nd ref="3676320850"/>
+    <nd ref="3676320847"/>
+    <nd ref="2934581531"/>
+    <nd ref="2934581530"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CE-085"/>
+    <tag k="source" v="Yahoo hires"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="46527252">
+    <nd ref="595250551"/>
+    <nd ref="595250934"/>
+    <nd ref="595250935"/>
+    <nd ref="595250894"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Rua Joaci Sampaio Pontes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Yahoo hires"/>
+  </way>
+  <way id="46527261">
+    <nd ref="365796536"/>
+    <nd ref="3921743322"/>
+    <nd ref="3675776967"/>
+    <nd ref="365796589"/>
+    <nd ref="1714888636"/>
+    <nd ref="1651470194"/>
+    <nd ref="1651470189"/>
+    <nd ref="1714888518"/>
+    <nd ref="1651470184"/>
+    <nd ref="2925518722"/>
+    <nd ref="595250909"/>
+    <nd ref="595250911"/>
+    <nd ref="595250894"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Rua Joaci Sampaio Pontes"/>
+    <tag k="source" v="Yahoo hires"/>
+  </way>
+  <way id="46527297">
+    <nd ref="595250894"/>
+    <nd ref="595250896"/>
+    <nd ref="595250898"/>
+    <nd ref="595250560"/>
+    <nd ref="595250563"/>
+    <nd ref="595250565"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Rua Joaci Sampaio Pontes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Yahoo hires"/>
+  </way>
+  <way id="152319680">
+    <nd ref="1651470240"/>
+    <nd ref="1714888794"/>
+    <nd ref="1651470239"/>
+    <nd ref="1714888791"/>
+    <nd ref="1651470238"/>
+    <nd ref="1714888790"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Tabelião Martins Brito"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="152319696">
+    <nd ref="365796373"/>
+    <nd ref="3675793609"/>
+    <nd ref="1651470218"/>
+    <nd ref="1651470217"/>
+    <nd ref="1651470216"/>
+    <nd ref="365796589"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Presidente Getúlio Vargas"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="159378605">
+    <nd ref="1714888548"/>
+    <nd ref="3675785680"/>
+    <nd ref="1714888516"/>
+    <nd ref="1714888511"/>
+    <nd ref="1714888510"/>
+    <nd ref="1714888497"/>
+    <nd ref="1714888489"/>
+    <nd ref="1714888477"/>
+    <nd ref="1714888462"/>
+    <nd ref="1714888460"/>
+    <nd ref="1714888452"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua João Forte"/>
+  </way>
+  <way id="159378606">
+    <nd ref="1714888377"/>
+    <nd ref="1714888416"/>
+    <nd ref="1714888477"/>
+    <nd ref="1714888494"/>
+    <nd ref="1714888531"/>
+    <nd ref="1714888550"/>
+    <nd ref="2863460003"/>
+    <nd ref="1714888634"/>
+    <nd ref="1714888672"/>
+    <nd ref="1651470217"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Principal"/>
+  </way>
+  <way id="159378607">
+    <nd ref="1714888453"/>
+    <nd ref="1714888450"/>
+    <nd ref="1714888447"/>
+    <nd ref="1714888444"/>
+    <nd ref="1714888424"/>
+    <nd ref="1714888420"/>
+    <nd ref="1714888416"/>
+    <nd ref="1714888415"/>
+    <nd ref="1714888410"/>
+    <nd ref="1714888390"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua C"/>
+  </way>
+  <way id="159378610">
+    <nd ref="1714888560"/>
+    <nd ref="1714888586"/>
+    <nd ref="1714888606"/>
+    <nd ref="1714888638"/>
+    <nd ref="1714888646"/>
+    <nd ref="1714888664"/>
+    <nd ref="1714888669"/>
+    <nd ref="1714888718"/>
+    <nd ref="1714888728"/>
+    <nd ref="1714888746"/>
+    <nd ref="1714888754"/>
+    <nd ref="3675793612"/>
+    <nd ref="1714888774"/>
+    <nd ref="3676320836"/>
+    <nd ref="1714888790"/>
+    <nd ref="1714888819"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua José Matias de Brito"/>
+  </way>
+  <way id="159378629">
+    <nd ref="1714888531"/>
+    <nd ref="1714888508"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159378642">
+    <nd ref="1714888494"/>
+    <nd ref="1714888481"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159378645">
+    <nd ref="2863460003"/>
+    <nd ref="1714888590"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159378648">
+    <nd ref="1714888550"/>
+    <nd ref="1714888546"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Florêncio Matias"/>
+  </way>
+  <way id="159378656">
+    <nd ref="1714888369"/>
+    <nd ref="1714888410"/>
+    <nd ref="1714888460"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua 2"/>
+  </way>
+  <way id="159378659">
+    <nd ref="1714888388"/>
+    <nd ref="1714888447"/>
+    <nd ref="1714888511"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Travessa 15 de Novembro"/>
+  </way>
+  <way id="159378675">
+    <nd ref="1714888404"/>
+    <nd ref="1714888388"/>
+    <nd ref="1714888385"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Pereira Valente"/>
+  </way>
+  <way id="159378676">
+    <nd ref="2863460047"/>
+    <nd ref="2863460060"/>
+    <nd ref="2863460018"/>
+    <nd ref="1714888374"/>
+    <nd ref="1714888415"/>
+    <nd ref="1714888462"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua 3"/>
+  </way>
+  <way id="159378688">
+    <nd ref="2863460025"/>
+    <nd ref="2863460002"/>
+    <nd ref="2863460048"/>
+    <nd ref="1714888371"/>
+    <nd ref="1714888385"/>
+    <nd ref="1714888444"/>
+    <nd ref="1714888497"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua da Capela"/>
+  </way>
+  <way id="159378705">
+    <nd ref="595251215"/>
+    <nd ref="2925518277"/>
+    <nd ref="1714888404"/>
+    <nd ref="3675793614"/>
+    <nd ref="1714888453"/>
+    <nd ref="3675793616"/>
+    <nd ref="1714888516"/>
+    <nd ref="3373656796"/>
+    <nd ref="1714888629"/>
+    <nd ref="2863453899"/>
+    <nd ref="2863453886"/>
+    <nd ref="2863460050"/>
+    <nd ref="2863453889"/>
+    <nd ref="2863453898"/>
+    <nd ref="2863460054"/>
+    <nd ref="2863460005"/>
+    <nd ref="2863460028"/>
+    <nd ref="365796540"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Rua Quinze de Novembro"/>
+  </way>
+  <way id="159378714">
+    <nd ref="1714888744"/>
+    <nd ref="1651470220"/>
+    <nd ref="1651470219"/>
+    <nd ref="1714888730"/>
+    <nd ref="1714888728"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Santa Inês"/>
+  </way>
+  <way id="159378716">
+    <nd ref="595251219"/>
+    <nd ref="1714888379"/>
+    <nd ref="1714888381"/>
+    <nd ref="1714888420"/>
+    <nd ref="1714888489"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua 5"/>
+  </way>
+  <way id="159378724">
+    <nd ref="1714888634"/>
+    <nd ref="1714888636"/>
+    <nd ref="1714888630"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua José Emídio da Rocha"/>
+  </way>
+  <way id="159378736">
+    <nd ref="1714888452"/>
+    <nd ref="1714888390"/>
+    <nd ref="1714888356"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua 1"/>
+  </way>
+  <way id="159378742">
+    <nd ref="2925518742"/>
+    <nd ref="2925518293"/>
+    <nd ref="2925518731"/>
+    <nd ref="2925518281"/>
+    <nd ref="1714888600"/>
+    <nd ref="1714888521"/>
+    <nd ref="2925518730"/>
+    <nd ref="2925518745"/>
+    <nd ref="1714888502"/>
+    <nd ref="2925518284"/>
+    <nd ref="1714888486"/>
+    <nd ref="1714888455"/>
+    <nd ref="1714888448"/>
+    <nd ref="1714888445"/>
+    <nd ref="1714888426"/>
+    <nd ref="2925518736"/>
+    <nd ref="2925518277"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Padre Cícero"/>
+  </way>
+  <way id="227878093">
+    <nd ref="2365016805"/>
+    <nd ref="2365016800"/>
+    <nd ref="2365016786"/>
+    <nd ref="2365016772"/>
+    <nd ref="2365016771"/>
+    <nd ref="2365016758"/>
+    <nd ref="2365016753"/>
+    <nd ref="2365016724"/>
+    <nd ref="2365016713"/>
+    <nd ref="2365016712"/>
+    <nd ref="2365016698"/>
+    <nd ref="2365016690"/>
+    <nd ref="2365016730"/>
+    <nd ref="2365016777"/>
+    <nd ref="2365016795"/>
+    <nd ref="2365016805"/>
+    <tag k="fixme" v="Ajustar contorno à área onde predominam moradias vizinhas."/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Vila do Trem"/>
+    <tag k="source" v="IBGE"/>
+  </way>
+  <way id="260053200">
+    <nd ref="1651470189"/>
+    <nd ref="1714888565"/>
+    <nd ref="1714888630"/>
+    <nd ref="1651470215"/>
+    <nd ref="1714888722"/>
+    <nd ref="1651470221"/>
+    <nd ref="1714888802"/>
+    <nd ref="1651470242"/>
+    <nd ref="1651470248"/>
+    <nd ref="3675793606"/>
+    <nd ref="1714888885"/>
+    <nd ref="365796290"/>
+    <nd ref="2655230812"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Joaquim Mota"/>
+  </way>
+  <way id="284760014">
+    <nd ref="2863460028"/>
+    <nd ref="3921743320"/>
+    <nd ref="3883874676"/>
+    <nd ref="1714888819"/>
+    <nd ref="2884658408"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua José Rocha"/>
+  </way>
+  <way id="285490702">
+    <nd ref="1651470194"/>
+    <nd ref="1714888565"/>
+    <nd ref="1714888539"/>
+    <nd ref="1714888526"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Antônio Moreira da Rocha"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="288865588">
+    <nd ref="2924165017"/>
+    <nd ref="2924165018"/>
+    <nd ref="2924165019"/>
+    <nd ref="2924165020"/>
+    <nd ref="2924165017"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Colegio Ina Arruda"/>
+  </way>
+  <way id="311265977">
+    <nd ref="595251358"/>
+    <nd ref="3168637302"/>
+    <nd ref="3168637297"/>
+    <nd ref="3168637296"/>
+    <nd ref="3168637293"/>
+    <nd ref="3168637291"/>
+    <nd ref="3168637290"/>
+    <nd ref="3168637289"/>
+    <nd ref="3168637286"/>
+    <nd ref="3168637284"/>
+    <nd ref="595250565"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CE-085"/>
+    <tag k="source" v="Yahoo hires"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="330405437">
+    <nd ref="1714888518"/>
+    <nd ref="1714888491"/>
+    <nd ref="1714888479"/>
+    <nd ref="1714888476"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Florêncio Matias"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="330405438">
+    <nd ref="1714888383"/>
+    <nd ref="1714888424"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Padre Vital Elias"/>
+  </way>
+  <way id="330405439">
+    <nd ref="2863460050"/>
+    <nd ref="3373656790"/>
+    <nd ref="3373656798"/>
+    <nd ref="3373656791"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="330405440">
+    <nd ref="3373656795"/>
+    <nd ref="3373656797"/>
+    <nd ref="3373656790"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Davi Henrique"/>
+  </way>
+  <way id="330405441">
+    <nd ref="3373656792"/>
+    <nd ref="3373656799"/>
+    <nd ref="3373656797"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Alexandre dos Reis"/>
+  </way>
+  <way id="330405442">
+    <nd ref="3373656798"/>
+    <nd ref="3373656799"/>
+    <nd ref="3373656794"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Travessa Elias Alves"/>
+  </way>
+  <way id="363410765">
+    <nd ref="3675785681"/>
+    <nd ref="3675785682"/>
+    <nd ref="3675785683"/>
+    <nd ref="3675785684"/>
+    <nd ref="3675785685"/>
+    <nd ref="3675785686"/>
+    <nd ref="3675785681"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="building" v="construction"/>
+    <tag k="construction" v="yes"/>
+    <tag k="name" v="Mercado Municipal"/>
+  </way>
+  <way id="363411895">
+    <nd ref="3675793603"/>
+    <nd ref="3675793611"/>
+    <nd ref="3676320835"/>
+    <nd ref="3883874676"/>
+    <nd ref="3921743318"/>
+    <nd ref="3883874677"/>
+    <nd ref="3883874679"/>
+    <nd ref="3675793604"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Coronel João Licino"/>
+  </way>
+  <way id="363411900">
+    <nd ref="3675793609"/>
+    <nd ref="3675793610"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Travessa Pedro da Rocha"/>
+  </way>
+  <way id="363411904">
+    <nd ref="3675793611"/>
+    <nd ref="3675793612"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Travessa São Francisco"/>
+  </way>
+  <way id="363411905">
+    <nd ref="1714888754"/>
+    <nd ref="3675793613"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Travessa São Francisco"/>
+  </way>
+  <way id="363411906">
+    <nd ref="3675793614"/>
+    <nd ref="3675793615"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Soares da Silva"/>
+  </way>
+  <way id="363411907">
+    <nd ref="3675793616"/>
+    <nd ref="3675793617"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Nunes Valente"/>
+  </way>
+  <way id="363411908">
+    <nd ref="3675793615"/>
+    <nd ref="3675793618"/>
+    <nd ref="3675793617"/>
+    <nd ref="3675785680"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua 13 de Maio"/>
+  </way>
+  <way id="363411909">
+    <nd ref="3675793618"/>
+    <nd ref="1714888453"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Santa Luzia"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="363466721">
+    <nd ref="3676320835"/>
+    <nd ref="3676320836"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="373769863">
+    <nd ref="3771831491"/>
+    <nd ref="3771831500"/>
+    <nd ref="3771831499"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769897">
+    <nd ref="2365017105"/>
+    <nd ref="3771826913"/>
+    <nd ref="3771831560"/>
+    <nd ref="3771831549"/>
+    <nd ref="3771831547"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769907">
+    <nd ref="3771829922"/>
+    <nd ref="3771829934"/>
+    <nd ref="3771831475"/>
+    <nd ref="3771831494"/>
+    <nd ref="3771831547"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769911">
+    <nd ref="3771829900"/>
+    <nd ref="3771829903"/>
+    <nd ref="3771829909"/>
+    <nd ref="3771829914"/>
+    <nd ref="3771829922"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769927">
+    <nd ref="3771831289"/>
+    <nd ref="3771831299"/>
+    <nd ref="3771831308"/>
+    <nd ref="3771829904"/>
+    <nd ref="3771829905"/>
+    <nd ref="3771829900"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769934">
+    <nd ref="3771831547"/>
+    <nd ref="3771831544"/>
+    <nd ref="3771831525"/>
+    <nd ref="3771831513"/>
+    <nd ref="3771831508"/>
+    <nd ref="3771831505"/>
+    <nd ref="3771831499"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769955">
+    <nd ref="3771831499"/>
+    <nd ref="3771831498"/>
+    <nd ref="3771831484"/>
+    <nd ref="3771831350"/>
+    <nd ref="3771831329"/>
+    <nd ref="3771831392"/>
+    <nd ref="3771831363"/>
+    <nd ref="3771829949"/>
+    <nd ref="3771829900"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="389010395">
+    <nd ref="3921743320"/>
+    <nd ref="3921743321"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="389010397">
+    <nd ref="3921743323"/>
+    <nd ref="2883937534"/>
+    <nd ref="2883937535"/>
+    <nd ref="2883937539"/>
+    <nd ref="2883937538"/>
+    <nd ref="365796370"/>
+    <nd ref="2863460028"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua José da Rocha"/>
+  </way>
+  <way id="389010399">
+    <nd ref="365796538"/>
+    <nd ref="2883937538"/>
+    <nd ref="365796373"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Pedro Gomes da Rocha"/>
+  </way>
+  <way id="389010400">
+    <nd ref="365796589"/>
+    <nd ref="365796545"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Presidente Getúlio Vargas"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="441792146">
+    <nd ref="365796545"/>
+    <nd ref="1651470215"/>
+    <nd ref="1714888641"/>
+    <nd ref="1714888633"/>
+    <nd ref="1714888631"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Joaquim Bento Cavalcante"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="441792147">
+    <nd ref="1714888356"/>
+    <nd ref="1714888369"/>
+    <nd ref="1714888374"/>
+    <nd ref="1714888377"/>
+    <nd ref="1714888379"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Pereira Valente"/>
+  </way>
+  <way id="442421555">
+    <nd ref="3373656793"/>
+    <nd ref="3373656794"/>
+    <nd ref="3373656795"/>
+    <nd ref="3373656796"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Erisvandro Rodrigues"/>
+  </way>
+  <way id="442421556">
+    <nd ref="3373656791"/>
+    <nd ref="3373656792"/>
+    <nd ref="3373656793"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua 13 de Maio"/>
+  </way>
+  <relation id="302624">
+    <member type="way" ref="43142797" role="outer"/>
+    <member type="way" ref="43142447" role="outer"/>
+    <member type="way" ref="43142625" role="outer"/>
+    <member type="way" ref="43142482" role="outer"/>
+    <member type="way" ref="373790995" role="outer"/>
+    <member type="way" ref="373769949" role="outer"/>
+    <member type="way" ref="373769915" role="outer"/>
+    <member type="way" ref="373769930" role="outer"/>
+    <member type="way" ref="373769880" role="outer"/>
+    <member type="way" ref="373769932" role="outer"/>
+    <member type="way" ref="393102806" role="outer"/>
+    <member type="way" ref="373790984" role="outer"/>
+    <member type="way" ref="373790986" role="outer"/>
+    <member type="way" ref="373769870" role="outer"/>
+    <member type="way" ref="373769879" role="outer"/>
+    <member type="way" ref="373769771" role="outer"/>
+    <member type="way" ref="371841462" role="outer"/>
+    <member type="way" ref="373769791" role="outer"/>
+    <member type="way" ref="373790994" role="outer"/>
+    <member type="way" ref="373769892" role="outer"/>
+    <member type="way" ref="373769943" role="outer"/>
+    <member type="way" ref="373790989" role="outer"/>
+    <member type="way" ref="373769890" role="outer"/>
+    <member type="way" ref="373790990" role="outer"/>
+    <member type="way" ref="371841451" role="outer"/>
+    <member type="way" ref="373790985" role="outer"/>
+    <member type="way" ref="371841454" role="outer"/>
+    <member type="way" ref="373790988" role="outer"/>
+    <member type="way" ref="43142821" role="outer"/>
+    <member type="node" ref="365796628" role="admin_centre"/>
+    <tag k="IBGE:GEOCODIGO" v="2303709"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="flag" v="http://upload.wikimedia.org/wikipedia/commons/b/b2/Bandeira_caucaia_ce.gif"/>
+    <tag k="name" v="Caucaia"/>
+    <tag k="name:bg" v="Каукая"/>
+    <tag k="name:ka" v="კაუკაია"/>
+    <tag k="name:kk" v="Каукая"/>
+    <tag k="name:ko" v="카우카이아"/>
+    <tag k="name:lt" v="Kaukaja"/>
+    <tag k="name:lv" v="Kaukaja"/>
+    <tag k="name:pt" v="Caucaia"/>
+    <tag k="name:ru" v="Каукая"/>
+    <tag k="name:sr" v="Каукаја"/>
+    <tag k="name:zh" v="考卡亞"/>
+    <tag k="population" v="325441"/>
+    <tag k="source" v="IBGE"/>
+    <tag k="type" v="boundary"/>
+    <tag k="website" v="http://www.caucaia.ce.gov.br/"/>
+    <tag k="wikidata" v="Q817233"/>
+    <tag k="wikipedia" v="pt:Caucaia"/>
+  </relation>
+  <relation id="4166243">
+    <member type="way" ref="311257879" role=""/>
+    <member type="way" ref="311263533" role=""/>
+    <member type="way" ref="406893126" role=""/>
+    <member type="way" ref="406893136" role=""/>
+    <member type="way" ref="311257878" role=""/>
+    <member type="way" ref="311263534" role=""/>
+    <member type="way" ref="311257880" role=""/>
+    <member type="way" ref="406893124" role=""/>
+    <member type="way" ref="406893133" role=""/>
+    <member type="way" ref="311257882" role=""/>
+    <member type="way" ref="311258288" role=""/>
+    <member type="way" ref="406893131" role=""/>
+    <member type="way" ref="406893121" role=""/>
+    <member type="way" ref="311258290" role=""/>
+    <member type="way" ref="138949333" role=""/>
+    <member type="way" ref="311263531" role=""/>
+    <member type="way" ref="311258292" role=""/>
+    <member type="way" ref="406893137" role=""/>
+    <member type="way" ref="138949330" role=""/>
+    <member type="way" ref="311258295" role=""/>
+    <member type="way" ref="311258298" role=""/>
+    <member type="way" ref="311258314" role=""/>
+    <member type="way" ref="311258303" role=""/>
+    <member type="way" ref="311258306" role=""/>
+    <member type="way" ref="139018235" role=""/>
+    <member type="way" ref="311258315" role=""/>
+    <member type="way" ref="311258314" role=""/>
+    <member type="way" ref="311258312" role=""/>
+    <member type="way" ref="311263530" role=""/>
+    <member type="way" ref="311263532" role=""/>
+    <member type="way" ref="232163378" role=""/>
+    <member type="way" ref="421177540" role=""/>
+    <member type="way" ref="311264223" role=""/>
+    <member type="way" ref="311264222" role=""/>
+    <member type="way" ref="311264221" role=""/>
+    <member type="way" ref="232163377" role=""/>
+    <member type="way" ref="195520088" role=""/>
+    <member type="way" ref="195520087" role=""/>
+    <member type="way" ref="179219241" role=""/>
+    <member type="way" ref="46527180" role=""/>
+    <member type="way" ref="311265977" role=""/>
+    <member type="way" ref="46527606" role=""/>
+    <member type="way" ref="46527609" role=""/>
+    <member type="way" ref="46527180" role=""/>
+    <member type="way" ref="311265977" role=""/>
+    <member type="way" ref="46527173" role=""/>
+    <member type="way" ref="46526732" role=""/>
+    <member type="way" ref="46527120" role=""/>
+    <member type="way" ref="311265979" role=""/>
+    <member type="way" ref="46526732" role=""/>
+    <member type="way" ref="311265980" role=""/>
+    <member type="way" ref="46524682" role=""/>
+    <member type="way" ref="311265974" role=""/>
+    <member type="way" ref="311265978" role=""/>
+    <tag k="ref" v="CE-085"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="5556910">
+    <member type="way" ref="373769863" role="outer"/>
+    <member type="way" ref="373769934" role="outer"/>
+    <member type="way" ref="373769897" role="outer"/>
+    <member type="way" ref="373769853" role="outer"/>
+    <member type="way" ref="373769940" role="outer"/>
+    <member type="way" ref="373769912" role="outer"/>
+    <member type="way" ref="373769891" role="outer"/>
+    <member type="way" ref="373769901" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Centro"/>
+    <tag k="place" v="suburb"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="5556915">
+    <member type="way" ref="373769933" role="outer"/>
+    <member type="way" ref="373769855" role="outer"/>
+    <member type="way" ref="373769768" role="outer"/>
+    <member type="way" ref="373769911" role="outer"/>
+    <member type="way" ref="373769927" role="outer"/>
+    <member type="way" ref="373769833" role="outer"/>
+    <member type="way" ref="373769939" role="outer"/>
+    <member type="way" ref="373769770" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Curicaca"/>
+    <tag k="place" v="suburb"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="5556918">
+    <member type="way" ref="373769927" role="outer"/>
+    <member type="way" ref="373769955" role="outer"/>
+    <member type="way" ref="373769863" role="outer"/>
+    <member type="way" ref="373769859" role="outer"/>
+    <member type="way" ref="373769858" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Grilo"/>
+    <tag k="place" v="suburb"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="5556923">
+    <member type="way" ref="373769913" role="outer"/>
+    <member type="way" ref="373769953" role="outer"/>
+    <member type="way" ref="373769897" role="outer"/>
+    <member type="way" ref="373769907" role="outer"/>
+    <member type="way" ref="373769768" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Itambé"/>
+    <tag k="place" v="suburb"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="5556938">
+    <member type="way" ref="373769955" role="outer"/>
+    <member type="way" ref="373769911" role="outer"/>
+    <member type="way" ref="373769907" role="outer"/>
+    <member type="way" ref="373769934" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Padre Romualdo"/>
+    <tag k="place" v="suburb"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+
+</osm>

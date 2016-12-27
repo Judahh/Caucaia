@@ -1,0 +1,2427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2016-12-26T23:11:02Z"/>
+
+  <node id="265204374" lat="-3.6234457" lon="-38.7582605">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204377" lat="-3.6235802" lon="-38.7590112">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204379" lat="-3.6239740" lon="-38.7593962">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204382" lat="-3.6252227" lon="-38.7600218">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204385" lat="-3.6265385" lon="-38.7602431">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204388" lat="-3.6279697" lon="-38.7601758">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204391" lat="-3.6295737" lon="-38.7601276">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204394" lat="-3.6294681" lon="-38.7603682">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204397" lat="-3.6294681" lon="-38.7605415">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204400" lat="-3.6296217" lon="-38.7607051">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204402" lat="-3.6299291" lon="-38.7608880">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204405" lat="-3.6304766" lon="-38.7610034">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204408" lat="-3.6305054" lon="-38.7608495">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204412" lat="-3.6313794" lon="-38.7607628">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204415" lat="-3.6324072" lon="-38.7602335">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204418" lat="-3.6322631" lon="-38.7605511">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204421" lat="-3.6329258" lon="-38.7603682">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204424" lat="-3.6335021" lon="-38.7596849">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204427" lat="-3.6339728" lon="-38.7596272">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204430" lat="-3.6333581" lon="-38.7591171">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204432" lat="-3.6336366" lon="-38.7586647">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204435" lat="-3.6341361" lon="-38.7573943">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204438" lat="-3.6342513" lon="-38.7569420">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204441" lat="-3.6344146" lon="-38.7567688">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204443" lat="-3.6348372" lon="-38.7568265">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204446" lat="-3.6369119" lon="-38.7561817">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204449" lat="-3.6375938" lon="-38.7559892">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204452" lat="-3.6389289" lon="-38.7560566">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204455" lat="-3.6392363" lon="-38.7560084">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204458" lat="-3.6396781" lon="-38.7564223">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204461" lat="-3.6399566" lon="-38.7582028">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204464" lat="-3.6399086" lon="-38.7586070">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204468" lat="-3.6397549" lon="-38.7591748">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204471" lat="-3.6398702" lon="-38.7599544">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204474" lat="-3.6401967" lon="-38.7601854">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204478" lat="-3.6407828" lon="-38.7599680">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204482" lat="-3.6402448" lon="-38.7600603">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204486" lat="-3.6400046" lon="-38.7599159">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204489" lat="-3.6398606" lon="-38.7591941">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204495" lat="-3.6400046" lon="-38.7586936">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204498" lat="-3.6401295" lon="-38.7577408">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204502" lat="-3.6400815" lon="-38.7572692">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204505" lat="-3.6401199" lon="-38.7562779">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204509" lat="-3.6406482" lon="-38.7555465">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204513" lat="-3.6405041" lon="-38.7553829">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204517" lat="-3.6397933" lon="-38.7555369">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204520" lat="-3.6390538" lon="-38.7553925">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204524" lat="-3.6384102" lon="-38.7557390">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204528" lat="-3.6372673" lon="-38.7556524">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204532" lat="-3.6358553" lon="-38.7557582">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204536" lat="-3.6347220" lon="-38.7559700">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204539" lat="-3.6339536" lon="-38.7557293">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204543" lat="-3.6345107" lon="-38.7547380">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204547" lat="-3.6347412" lon="-38.7539200">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204551" lat="-3.6342897" lon="-38.7542183">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204554" lat="-3.6346451" lon="-38.7537564">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204558" lat="-3.6348180" lon="-38.7533906">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204561" lat="-3.6349621" lon="-38.7529383">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204565" lat="-3.6349429" lon="-38.7525533">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204569" lat="-3.6355288" lon="-38.7514273">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204573" lat="-3.6364989" lon="-38.7502916">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204577" lat="-3.6368062" lon="-38.7501761">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204580" lat="-3.6369503" lon="-38.7498778">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204587" lat="-3.6371328" lon="-38.7492426">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204591" lat="-3.6375554" lon="-38.7493388">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204594" lat="-3.6375554" lon="-38.7489924">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204598" lat="-3.6381221" lon="-38.7473659">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204602" lat="-3.6397453" lon="-38.7466537">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204606" lat="-3.6397261" lon="-38.7463746">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204610" lat="-3.6381413" lon="-38.7469520">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204613" lat="-3.6377667" lon="-38.7468365">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204617" lat="-3.6382566" lon="-38.7456431">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204621" lat="-3.6381125" lon="-38.7456046">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204625" lat="-3.6376418" lon="-38.7467788">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204629" lat="-3.6372000" lon="-38.7471156">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204633" lat="-3.6361915" lon="-38.7486555">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204636" lat="-3.6347316" lon="-38.7488384">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204640" lat="-3.6342129" lon="-38.7483957">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204643" lat="-3.6347220" lon="-38.7494832">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204647" lat="-3.6346739" lon="-38.7502724">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204651" lat="-3.6340688" lon="-38.7514850">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204654" lat="-3.6336942" lon="-38.7527362">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204658" lat="-3.6337903" lon="-38.7530153">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204662" lat="-3.6336366" lon="-38.7530057">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204666" lat="-3.6328778" lon="-38.7546899">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204669" lat="-3.6326761" lon="-38.7562202">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204673" lat="-3.6323976" lon="-38.7562106">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204677" lat="-3.6320422" lon="-38.7566533">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204680" lat="-3.6319461" lon="-38.7572885">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204683" lat="-3.6316868" lon="-38.7574425">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204687" lat="-3.6315715" lon="-38.7577889">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204691" lat="-3.6308478" lon="-38.7577408"/>
+  <node id="265204695" lat="-3.6309760" lon="-38.7567976">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204699" lat="-3.6307071" lon="-38.7549305">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204701" lat="-3.6301500" lon="-38.7549979">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204705" lat="-3.6300732" lon="-38.7552866">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204709" lat="-3.6294392" lon="-38.7550556">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204713" lat="-3.6290262" lon="-38.7554502">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204717" lat="-3.6292087" lon="-38.7541798">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204718" lat="-3.6288726" lon="-38.7540259">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204720" lat="-3.6280945" lon="-38.7550364">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204725" lat="-3.6274126" lon="-38.7554406">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204729" lat="-3.6264905" lon="-38.7551519">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204733" lat="-3.6270860" lon="-38.7539970">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204736" lat="-3.6280369" lon="-38.7537852">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204740" lat="-3.6283059" lon="-38.7528806">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204744" lat="-3.6282386" lon="-38.7521491">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204748" lat="-3.6287765" lon="-38.7507921">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204751" lat="-3.6290262" lon="-38.7504745">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204755" lat="-3.6291127" lon="-38.7493196">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204759" lat="-3.6282002" lon="-38.7505130">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204763" lat="-3.6272589" lon="-38.7522357">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204767" lat="-3.6270284" lon="-38.7527266">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204770" lat="-3.6257221" lon="-38.7524956">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204774" lat="-3.6248961" lon="-38.7528613">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204778" lat="-3.6243870" lon="-38.7533233">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204782" lat="-3.6239836" lon="-38.7546899">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204787" lat="-3.6239548" lon="-38.7556235">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204872" lat="-3.6257049" lon="-38.7617860">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204875" lat="-3.6261748" lon="-38.7617154">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204880" lat="-3.6261631" lon="-38.7614564">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204883" lat="-3.6258459" lon="-38.7613858">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204886" lat="-3.6258576" lon="-38.7610562">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204889" lat="-3.6250823" lon="-38.7605265">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204892" lat="-3.6249061" lon="-38.7606795">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204896" lat="-3.6244479" lon="-38.7605500">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204906" lat="-3.6266917" lon="-38.7619743">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204907" lat="-3.6267034" lon="-38.7622451">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204910" lat="-3.6268327" lon="-38.7622921">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204913" lat="-3.6272791" lon="-38.7620449">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204916" lat="-3.6276197" lon="-38.7620214">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204919" lat="-3.6277607" lon="-38.7617154">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204922" lat="-3.6281484" lon="-38.7612916">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204925" lat="-3.6284656" lon="-38.7611386">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204928" lat="-3.6285595" lon="-38.7615035">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204931" lat="-3.6288650" lon="-38.7617507">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204934" lat="-3.6294758" lon="-38.7619626">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204937" lat="-3.6298635" lon="-38.7617036">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204940" lat="-3.6297695" lon="-38.7614917">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204943" lat="-3.6293701" lon="-38.7611503">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204947" lat="-3.6292526" lon="-38.7609973">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204951" lat="-3.6290412" lon="-38.7607737">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204954" lat="-3.6292879" lon="-38.7605618">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204957" lat="-3.6293466" lon="-38.7604205">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204964" lat="-3.6289707" lon="-38.7605265">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204968" lat="-3.6287005" lon="-38.7607854">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204971" lat="-3.6281249" lon="-38.7611150">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204975" lat="-3.6277725" lon="-38.7610915">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204979" lat="-3.6273261" lon="-38.7613269">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204983" lat="-3.6272086" lon="-38.7615741">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204987" lat="-3.6267974" lon="-38.7618566">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204990" lat="-3.6434109" lon="-38.7590700">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204994" lat="-3.6432290" lon="-38.7599032">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265204998" lat="-3.6433069" lon="-38.7605671">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205002" lat="-3.6435668" lon="-38.7609446">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205006" lat="-3.6440734" lon="-38.7612440">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205010" lat="-3.6443073" lon="-38.7612830">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205013" lat="-3.6441514" lon="-38.7608014">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205017" lat="-3.6445022" lon="-38.7605150">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205021" lat="-3.6443463" lon="-38.7598771">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205025" lat="-3.6449439" lon="-38.7595126">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205028" lat="-3.6444112" lon="-38.7590440">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205031" lat="-3.6438266" lon="-38.7591091">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205035" lat="-3.6434109" lon="-38.7588227">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205039" lat="-3.6458793" lon="-38.7577292">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205043" lat="-3.6456584" lon="-38.7590049">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205046" lat="-3.6461261" lon="-38.7591611">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205049" lat="-3.6465288" lon="-38.7591351">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205053" lat="-3.6466328" lon="-38.7587185">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205057" lat="-3.6463599" lon="-38.7582759">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205062" lat="-3.6469705" lon="-38.7578333">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205065" lat="-3.6467497" lon="-38.7571173">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205069" lat="-3.6464639" lon="-38.7568049">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205072" lat="-3.6448659" lon="-38.7549173">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205076" lat="-3.6457104" lon="-38.7551256">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205079" lat="-3.6461521" lon="-38.7550345">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205083" lat="-3.6463340" lon="-38.7544617">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205087" lat="-3.6462040" lon="-38.7541363">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205091" lat="-3.6456194" lon="-38.7541753">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205095" lat="-3.6452427" lon="-38.7532901">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205098" lat="-3.6462690" lon="-38.7526001">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205101" lat="-3.6473473" lon="-38.7523268">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205104" lat="-3.6474772" lon="-38.7514546">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205108" lat="-3.6477630" lon="-38.7506735">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205112" lat="-3.6476721" lon="-38.7504131">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205115" lat="-3.6474382" lon="-38.7505043">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205119" lat="-3.6468406" lon="-38.7514285">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205123" lat="-3.6446295" lon="-38.7537564">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205126" lat="-3.6441352" lon="-38.7544705">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205129" lat="-3.6439054" lon="-38.7549888">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205132" lat="-3.6440088" lon="-38.7553919">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205136" lat="-3.6440088" lon="-38.7559677">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205138" lat="-3.6435031" lon="-38.7557489">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205142" lat="-3.6429858" lon="-38.7552882">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205146" lat="-3.6425031" lon="-38.7552767">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205152" lat="-3.6415261" lon="-38.7549427">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205158" lat="-3.6414916" lon="-38.7541480">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205162" lat="-3.6410548" lon="-38.7547123">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205166" lat="-3.6427100" lon="-38.7584900">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205169" lat="-3.6419744" lon="-38.7580754">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205172" lat="-3.6415836" lon="-38.7581100">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205176" lat="-3.6412732" lon="-38.7586282">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205180" lat="-3.6410548" lon="-38.7588355">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205183" lat="-3.6409859" lon="-38.7591926">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205186" lat="-3.6304207" lon="-38.7442464">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205190" lat="-3.6304319" lon="-38.7446634">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205193" lat="-3.6301845" lon="-38.7450240">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205197" lat="-3.6301845" lon="-38.7455198">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205200" lat="-3.6310167" lon="-38.7458804">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205204" lat="-3.6312867" lon="-38.7455987">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205208" lat="-3.6316578" lon="-38.7453170">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205211" lat="-3.6317478" lon="-38.7447986">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205215" lat="-3.6316690" lon="-38.7445281">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205219" lat="-3.6318827" lon="-38.7438182">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205223" lat="-3.6317028" lon="-38.7435252">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205227" lat="-3.6310505" lon="-38.7433336">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205230" lat="-3.6310955" lon="-38.7438745">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205234" lat="-3.6264507" lon="-38.7495654">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205237" lat="-3.6261695" lon="-38.7502979">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205241" lat="-3.6262257" lon="-38.7504557">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205249" lat="-3.6266531" lon="-38.7504557">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205253" lat="-3.6267431" lon="-38.7502867">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205257" lat="-3.6271142" lon="-38.7501176">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205259" lat="-3.6272492" lon="-38.7498922">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205263" lat="-3.6274853" lon="-38.7490809">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205267" lat="-3.6272492" lon="-38.7489795">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205271" lat="-3.6303869" lon="-38.7511093">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205275" lat="-3.6301170" lon="-38.7515037">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205279" lat="-3.6299596" lon="-38.7525180">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205282" lat="-3.6295547" lon="-38.7532843">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205286" lat="-3.6293860" lon="-38.7534646">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205289" lat="-3.6292960" lon="-38.7539491">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205292" lat="-3.6301957" lon="-38.7544112">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205294" lat="-3.6312304" lon="-38.7545239">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205298" lat="-3.6320064" lon="-38.7540844">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205302" lat="-3.6322651" lon="-38.7535660">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205306" lat="-3.6322651" lon="-38.7525968">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205310" lat="-3.6319390" lon="-38.7522813">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205313" lat="-3.6321076" lon="-38.7514136">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205317" lat="-3.6324900" lon="-38.7509854">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205320" lat="-3.6324226" lon="-38.7506135">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205324" lat="-3.6323438" lon="-38.7508389">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205326" lat="-3.6321189" lon="-38.7506022">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205329" lat="-3.6322089" lon="-38.7498021">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205333" lat="-3.6307581" lon="-38.7494978">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205340" lat="-3.6304319" lon="-38.7501627">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265205343" lat="-3.6299714" lon="-38.7512034">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206134" lat="-3.6477204" lon="-38.7626621">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206153" lat="-3.6484834" lon="-38.7613427"/>
+  <node id="265206156" lat="-3.6481217" lon="-38.7614116">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206159" lat="-3.6479330" lon="-38.7615034">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206162" lat="-3.6472929" lon="-38.7620753"/>
+  <node id="265206165" lat="-3.6471291" lon="-38.7621592"/>
+  <node id="265206168" lat="-3.6468978" lon="-38.7621754"/>
+  <node id="265206174" lat="-3.6425712" lon="-38.7612002"/>
+  <node id="265206177" lat="-3.6423543" lon="-38.7609260"/>
+  <node id="265206180" lat="-3.6424207" lon="-38.7602963"/>
+  <node id="265206184" lat="-3.6424961" lon="-38.7600402"/>
+  <node id="265206187" lat="-3.6431715" lon="-38.7589639">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206190" lat="-3.6434017" lon="-38.7585576">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206193" lat="-3.6436406" lon="-38.7575914">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206196" lat="-3.6438240" lon="-38.7560569">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206199" lat="-3.6439103" lon="-38.7555868">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206202" lat="-3.6438779" lon="-38.7552572">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206206" lat="-3.6437000" lon="-38.7550086">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206210" lat="-3.6432740" lon="-38.7547330">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206213" lat="-3.6409660" lon="-38.7519719">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206216" lat="-3.6406263" lon="-38.7515505">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206219" lat="-3.6396179" lon="-38.7502266">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206222" lat="-3.6395424" lon="-38.7500321">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206225" lat="-3.6393159" lon="-38.7489406">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206228" lat="-3.6388090" lon="-38.7479194">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206231" lat="-3.6386796" lon="-38.7477843">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206234" lat="-3.6384962" lon="-38.7476709">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206238" lat="-3.6382859" lon="-38.7475790">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206241" lat="-3.6380271" lon="-38.7474331">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206244" lat="-3.6378545" lon="-38.7472710">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206247" lat="-3.6374825" lon="-38.7467901">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206250" lat="-3.6368192" lon="-38.7467523">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206253" lat="-3.6365873" lon="-38.7468279">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206256" lat="-3.6364040" lon="-38.7469468">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206259" lat="-3.6362098" lon="-38.7470981">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206262" lat="-3.6360049" lon="-38.7471900">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206265" lat="-3.6346676" lon="-38.7475196">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206268" lat="-3.6344465" lon="-38.7476060">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206271" lat="-3.6342362" lon="-38.7477627">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206274" lat="-3.6340690" lon="-38.7480113">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206277" lat="-3.6336915" lon="-38.7494648">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206280" lat="-3.6335783" lon="-38.7496863">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206283" lat="-3.6333950" lon="-38.7498430">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206286" lat="-3.6331577" lon="-38.7499078">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206291" lat="-3.6328719" lon="-38.7498700">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206297" lat="-3.6307095" lon="-38.7493837">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206300" lat="-3.6295932" lon="-38.7491190">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206303" lat="-3.6271558" lon="-38.7486435">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206306" lat="-3.6261906" lon="-38.7484381">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206309" lat="-3.6251140" lon="-38.7482168"/>
+  <node id="265206324" lat="-3.6257044" lon="-38.7447402">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206328" lat="-3.6256998" lon="-38.7445885">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206333" lat="-3.6256374" lon="-38.7444736">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206337" lat="-3.6255173" lon="-38.7443908">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206399" lat="-3.6240667" lon="-38.7373477">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="265206426" lat="-3.6242546" lon="-38.7492187"/>
+  <node id="265206430" lat="-3.6245672" lon="-38.7484060"/>
+  <node id="265206434" lat="-3.6247938" lon="-38.7482606"/>
+  <node id="265206438" lat="-3.6248799" lon="-38.7482470"/>
+  <node id="595247151" lat="-3.6545971" lon="-38.7466227"/>
+  <node id="595247153" lat="-3.6544686" lon="-38.7470411"/>
+  <node id="595247154" lat="-3.6540618" lon="-38.7494229"/>
+  <node id="595247156" lat="-3.6539012" lon="-38.7499379"/>
+  <node id="595247158" lat="-3.6536977" lon="-38.7504100"/>
+  <node id="595247159" lat="-3.6533444" lon="-38.7509572"/>
+  <node id="595247161" lat="-3.6491365" lon="-38.7560641"/>
+  <node id="595247163" lat="-3.6488688" lon="-38.7564933"/>
+  <node id="595247164" lat="-3.6487082" lon="-38.7568366"/>
+  <node id="595247166" lat="-3.6485583" lon="-38.7573086"/>
+  <node id="595247168" lat="-3.6484834" lon="-38.7578344"/>
+  <node id="595247747" lat="-3.6532632" lon="-38.7619505"/>
+  <node id="595247749" lat="-3.6530918" lon="-38.7612599"/>
+  <node id="595247751" lat="-3.6530454" lon="-38.7607059"/>
+  <node id="595247753" lat="-3.6530338" lon="-38.7601330"/>
+  <node id="595247755" lat="-3.6531089" lon="-38.7596582"/>
+  <node id="595247756" lat="-3.6533658" lon="-38.7591004"/>
+  <node id="1077383843" lat="-3.6366456" lon="-38.7598429"/>
+  <node id="1077393934" lat="-3.6249345" lon="-38.7380043"/>
+  <node id="1077393938" lat="-3.6251382" lon="-38.7375143"/>
+  <node id="1714500643" lat="-3.6229321" lon="-38.7396920"/>
+  <node id="1714500644" lat="-3.6231156" lon="-38.7417086"/>
+  <node id="1714500649" lat="-3.6231126" lon="-38.7436246"/>
+  <node id="1714500651" lat="-3.6233386" lon="-38.7388742"/>
+  <node id="1714500661" lat="-3.6237481" lon="-38.7380391"/>
+  <node id="1714500683" lat="-3.6239448" lon="-38.7419328"/>
+  <node id="1714500689" lat="-3.6239805" lon="-38.7399880"/>
+  <node id="1714500692" lat="-3.6241025" lon="-38.7371899"/>
+  <node id="1714500700" lat="-3.6243528" lon="-38.7392282"/>
+  <node id="1714500707" lat="-3.6247341" lon="-38.7421764"/>
+  <node id="1714500709" lat="-3.6247497" lon="-38.7402603"/>
+  <node id="1714500712" lat="-3.6247677" lon="-38.7383590"/>
+  <node id="1714500732" lat="-3.6251371" lon="-38.7394669"/>
+  <node id="1714500743" lat="-3.6255596" lon="-38.7386328"/>
+  <node id="1714500750" lat="-3.6256857" lon="-38.7383779"/>
+  <node id="1714500758" lat="-3.6258700" lon="-38.7377503"/>
+  <node id="1714500775" lat="-3.6260280" lon="-38.7372118"/>
+  <node id="1714500777" lat="-3.6260796" lon="-38.7397819"/>
+  <node id="1714500830" lat="-3.6270834" lon="-38.7371645"/>
+  <node id="1715054252" lat="-3.6361790" lon="-38.7620133"/>
+  <node id="1715054262" lat="-3.6363760" lon="-38.7612021"/>
+  <node id="1715054267" lat="-3.6364867" lon="-38.7612183"/>
+  <node id="1715054293" lat="-3.6376047" lon="-38.7623120"/>
+  <node id="1715054296" lat="-3.6378161" lon="-38.7615153"/>
+  <node id="1715054302" lat="-3.6381674" lon="-38.7599318"/>
+  <node id="1715054318" lat="-3.6541800" lon="-38.7573371"/>
+  <node id="1715054320" lat="-3.6545868" lon="-38.7564559"/>
+  <node id="3153682331" lat="-3.6230726" lon="-38.7426235"/>
+  <node id="3153682332" lat="-3.6229172" lon="-38.7424802"/>
+  <node id="3153682333" lat="-3.6230071" lon="-38.7422822"/>
+  <node id="3153682334" lat="-3.6231858" lon="-38.7422189"/>
+  <node id="3153682335" lat="-3.6232330" lon="-38.7423650"/>
+  <node id="3153682336" lat="-3.6231867" lon="-38.7423802"/>
+  <node id="3153682337" lat="-3.6231757" lon="-38.7423566"/>
+  <node id="3153682338" lat="-3.6231462" lon="-38.7423676"/>
+  <node id="3153682339" lat="-3.6231479" lon="-38.7424140"/>
+  <node id="3153682340" lat="-3.6231099" lon="-38.7424284"/>
+  <node id="3153682341" lat="-3.6230771" lon="-38.7424791"/>
+  <node id="3153682342" lat="-3.6230939" lon="-38.7424960"/>
+  <node id="3153682343" lat="-3.6231563" lon="-38.7424233"/>
+  <node id="3153682344" lat="-3.6231993" lon="-38.7424377"/>
+  <node id="3153682345" lat="-3.6231656" lon="-38.7425365"/>
+  <node id="3153682346" lat="-3.6231293" lon="-38.7425678"/>
+  <node id="3153682347" lat="-3.6230737" lon="-38.7425568"/>
+  <node id="3153682357" lat="-3.6229175" lon="-38.7423369"/>
+  <node id="3153682358" lat="-3.6229327" lon="-38.7423447"/>
+  <node id="3153682359" lat="-3.6229348" lon="-38.7423586"/>
+  <node id="3153682360" lat="-3.6229253" lon="-38.7423730"/>
+  <node id="3153683061" lat="-3.6229114" lon="-38.7423782"/>
+  <node id="3153683062" lat="-3.6229010" lon="-38.7423882"/>
+  <node id="3168636368" lat="-3.6482409" lon="-38.7578171"/>
+  <node id="3168636369" lat="-3.6482409" lon="-38.7613433"/>
+  <node id="3168636372" lat="-3.6483210" lon="-38.7572542"/>
+  <node id="3168636374" lat="-3.6484819" lon="-38.7567478"/>
+  <node id="3168636376" lat="-3.6486554" lon="-38.7563769"/>
+  <node id="3168636378" lat="-3.6489393" lon="-38.7559217"/>
+  <node id="3168636386" lat="-3.6531484" lon="-38.7508133"/>
+  <node id="3168636387" lat="-3.6534831" lon="-38.7502950"/>
+  <node id="3168636388" lat="-3.6536735" lon="-38.7498532"/>
+  <node id="3168636389" lat="-3.6538255" lon="-38.7493659"/>
+  <node id="3168636390" lat="-3.6542322" lon="-38.7469846"/>
+  <node id="3168636391" lat="-3.6543746" lon="-38.7465208"/>
+  <node id="3168636392" lat="-3.6546676" lon="-38.7460512"/>
+  <node id="3687472902" lat="-3.6255753" lon="-38.7405809"/>
+  <node id="3687472903" lat="-3.6259502" lon="-38.7397386"/>
+  <node id="3687472904" lat="-3.6243397" lon="-38.7411123"/>
+  <node id="3687472905" lat="-3.6251047" lon="-38.7414021"/>
+  <node id="3687472906" lat="-3.6235449" lon="-38.7408545"/>
+  <node id="3771827509" lat="-3.6325610" lon="-38.7605320"/>
+  <node id="3771827516" lat="-3.6334000" lon="-38.7605480"/>
+  <node id="3771827544" lat="-3.6371720" lon="-38.7598160"/>
+  <node id="3771827551" lat="-3.6377510" lon="-38.7598600"/>
+  <node id="3771829083" lat="-3.6229020" lon="-38.7591410"/>
+  <node id="3771829086" lat="-3.6232170" lon="-38.7578350"/>
+  <node id="3771829088" lat="-3.6234490" lon="-38.7601160"/>
+  <node id="3771829089" lat="-3.6235110" lon="-38.7602420"/>
+  <node id="3771829091" lat="-3.6235150" lon="-38.7569290"/>
+  <node id="3771829093" lat="-3.6235620" lon="-38.7544520"/>
+  <node id="3771829095" lat="-3.6236380" lon="-38.7564080"/>
+  <node id="3771829096" lat="-3.6236580" lon="-38.7560260"/>
+  <node id="3771829097" lat="-3.6236710" lon="-38.7538260"/>
+  <node id="3771829098" lat="-3.6236900" lon="-38.7596760"/>
+  <node id="3771829099" lat="-3.6238170" lon="-38.7534270"/>
+  <node id="3771829105" lat="-3.6239380" lon="-38.7438790"/>
+  <node id="3771829114" lat="-3.6243280" lon="-38.7527890"/>
+  <node id="3771829116" lat="-3.6244500" lon="-38.7525640"/>
+  <node id="3771829120" lat="-3.6245800" lon="-38.7480830"/>
+  <node id="3771829121" lat="-3.6245900" lon="-38.7605550"/>
+  <node id="3771829124" lat="-3.6248820" lon="-38.7441950"/>
+  <node id="3771829127" lat="-3.6249680" lon="-38.7511680"/>
+  <node id="3771829135" lat="-3.6254900" lon="-38.7604870"/>
+  <node id="3771829138" lat="-3.6255900" lon="-38.7444750"/>
+  <node id="3771829140" lat="-3.6256450" lon="-38.7445300"/>
+  <node id="3771829141" lat="-3.6256740" lon="-38.7448630"/>
+  <node id="3771829144" lat="-3.6256980" lon="-38.7446690"/>
+  <node id="3771829149" lat="-3.6258450" lon="-38.7483732"/>
+  <node id="3771829150" lat="-3.6258630" lon="-38.7605020"/>
+  <node id="3771829151" lat="-3.6260010" lon="-38.7605460"/>
+  <node id="3771829153" lat="-3.6261640" lon="-38.7608770"/>
+  <node id="3771829156" lat="-3.6263190" lon="-38.7609910"/>
+  <node id="3771829257" lat="-3.6263560" lon="-38.7389650"/>
+  <node id="3771829259" lat="-3.6266820" lon="-38.7626300"/>
+  <node id="3771829260" lat="-3.6269160" lon="-38.7371260"/>
+  <node id="3771829268" lat="-3.6281150" lon="-38.7626920"/>
+  <node id="3771829269" lat="-3.6281180" lon="-38.7376570"/>
+  <node id="3771829274" lat="-3.6289510" lon="-38.7624590"/>
+  <node id="3771829277" lat="-3.6298200" lon="-38.7382690"/>
+  <node id="3771829279" lat="-3.6301820" lon="-38.7619800"/>
+  <node id="3771829282" lat="-3.6304050" lon="-38.7384120"/>
+  <node id="3771829287" lat="-3.6316630" lon="-38.7613090"/>
+  <node id="3771829288" lat="-3.6318280" lon="-38.7389200"/>
+  <node id="3771829291" lat="-3.6323820" lon="-38.7605990"/>
+  <node id="3771829359" lat="-3.6389610" lon="-38.7600730"/>
+  <node id="3771829361" lat="-3.6394730" lon="-38.7603320"/>
+  <node id="3771829364" lat="-3.6396340" lon="-38.7397370"/>
+  <node id="3771829365" lat="-3.6397010" lon="-38.7414440"/>
+  <node id="3771829367" lat="-3.6400350" lon="-38.7607910"/>
+  <node id="3771829368" lat="-3.6402240" lon="-38.7608650"/>
+  <node id="3771829371" lat="-3.6411340" lon="-38.7610370"/>
+  <node id="3771829374" lat="-3.6420210" lon="-38.7400160"/>
+  <node id="3771829376" lat="-3.6423860" lon="-38.7404520"/>
+  <node id="3771829377" lat="-3.6424281" lon="-38.7611549"/>
+  <node id="3771829380" lat="-3.6428730" lon="-38.7406660"/>
+  <node id="3771829382" lat="-3.6436980" lon="-38.7406180"/>
+  <node id="3771829385" lat="-3.6448920" lon="-38.7408490"/>
+  <node id="3771829395" lat="-3.6453630" lon="-38.7409930"/>
+  <node id="3771829398" lat="-3.6456740" lon="-38.7411430"/>
+  <node id="3771829459" lat="-3.6468450" lon="-38.7415690"/>
+  <node id="3771829460" lat="-3.6468850" lon="-38.7621460"/>
+  <node id="3771829463" lat="-3.6471820" lon="-38.7621480"/>
+  <node id="3771829464" lat="-3.6473030" lon="-38.7620960"/>
+  <node id="3771829467" lat="-3.6476670" lon="-38.7415870"/>
+  <node id="3771829469" lat="-3.6478950" lon="-38.7615950"/>
+  <node id="3771829470" lat="-3.6481520" lon="-38.7614420"/>
+  <node id="3771829471" lat="-3.6482580" lon="-38.7417110"/>
+  <node id="3771829473" lat="-3.6484630" lon="-38.7613800"/>
+  <node id="3771829474" lat="-3.6484790" lon="-38.7579220"/>
+  <node id="3771829475" lat="-3.6484860" lon="-38.7618730"/>
+  <node id="3771829478" lat="-3.6485580" lon="-38.7573670"/>
+  <node id="3771829481" lat="-3.6487110" lon="-38.7568700"/>
+  <node id="3771829482" lat="-3.6488660" lon="-38.7421770"/>
+  <node id="3771829484" lat="-3.6490050" lon="-38.7562860"/>
+  <node id="3771829486" lat="-3.6492680" lon="-38.7559230"/>
+  <node id="3771829492" lat="-3.6508950" lon="-38.7439970"/>
+  <node id="3771829501" lat="-3.6533860" lon="-38.7509670"/>
+  <node id="3771829503" lat="-3.6535860" lon="-38.7506750"/>
+  <node id="3771829506" lat="-3.6537730" lon="-38.7503270"/>
+  <node id="3771829507" lat="-3.6540140" lon="-38.7496260"/>
+  <node id="3771829509" lat="-3.6544530" lon="-38.7471660"/>
+  <node id="3771829510" lat="-3.6544610" lon="-38.7462530"/>
+  <node id="3771829511" lat="-3.6546300" lon="-38.7466290"/>
+  <node id="3986040022" lat="-3.6444773" lon="-38.7616536"/>
+  <node id="3998394819" lat="-3.6245038" lon="-38.7441741"/>
+  <node id="3998394820" lat="-3.6250929" lon="-38.7443738"/>
+  <node id="3998394821" lat="-3.6255143" lon="-38.7445373"/>
+  <node id="3998394822" lat="-3.6256095" lon="-38.7446463"/>
+  <node id="3998394823" lat="-3.6256412" lon="-38.7447643"/>
+  <node id="3998394824" lat="-3.6255687" lon="-38.7449687"/>
+  <node id="3998394825" lat="-3.6250431" lon="-38.7464671"/>
+  <node id="3998394826" lat="-3.6245038" lon="-38.7481244"/>
+  <node id="3998394827" lat="-3.6242500" lon="-38.7488282"/>
+  <node id="3998394828" lat="-3.6240688" lon="-38.7492006"/>
+  <node id="3998394829" lat="-3.6235068" lon="-38.7502358"/>
+  <node id="3998394830" lat="-3.6230582" lon="-38.7510804"/>
+  <node id="3998394832" lat="-3.6241277" lon="-38.7494639"/>
+  <node id="3998394833" lat="-3.6236655" lon="-38.7501496"/>
+  <node id="3998394834" lat="-3.6229109" lon="-38.7513516"/>
+  <node id="3998399529" lat="-3.6305802" lon="-38.7588458"/>
+  <node id="3998404418" lat="-3.6247475" lon="-38.7478249"/>
+  <node id="3998404419" lat="-3.6248410" lon="-38.7480312"/>
+  <node id="3998406412" lat="-3.6239315" lon="-38.7494535"/>
+  <node id="3998406413" lat="-3.6233729" lon="-38.7490861"/>
+  <node id="3998406414" lat="-3.6231011" lon="-38.7488625"/>
+  <node id="3998406415" lat="-3.6229631" lon="-38.7486470"/>
+  <node id="3998406610" lat="-3.6241844" lon="-38.7492650"/>
+  <node id="3998406611" lat="-3.6241438" lon="-38.7492731"/>
+  <node id="3998406612" lat="-3.6241033" lon="-38.7492569"/>
+  <node id="3998406613" lat="-3.6248350" lon="-38.7475429"/>
+  <node id="3998406614" lat="-3.6248133" lon="-38.7474803"/>
+  <node id="3998406615" lat="-3.6247897" lon="-38.7474657"/>
+  <node id="3998406616" lat="-3.6247565" lon="-38.7474640"/>
+  <node id="3998406617" lat="-3.6247045" lon="-38.7475076"/>
+  <node id="4340592980" lat="-3.6518699" lon="-38.7601274"/>
+  <node id="4340592981" lat="-3.6523732" lon="-38.7599593"/>
+  <node id="4340592982" lat="-3.6528486" lon="-38.7598472"/>
+  <node id="4340592983" lat="-3.6530391" lon="-38.7598539"/>
+  <node id="4476795641" lat="-3.6482411" lon="-38.7613888"/>
+  <node id="4548136092" lat="-3.6482411" lon="-38.7613888"/>
+  <way id="24419379">
+    <nd ref="265204374"/>
+    <nd ref="265204377"/>
+    <nd ref="265204379"/>
+    <nd ref="265204382"/>
+    <nd ref="265204385"/>
+    <nd ref="265204388"/>
+    <nd ref="265204391"/>
+    <nd ref="265204394"/>
+    <nd ref="265204397"/>
+    <nd ref="265204400"/>
+    <nd ref="265204402"/>
+    <nd ref="265204405"/>
+    <nd ref="265204408"/>
+    <nd ref="265204412"/>
+    <nd ref="265204415"/>
+    <nd ref="265204418"/>
+    <nd ref="265204421"/>
+    <nd ref="265204424"/>
+    <nd ref="265204427"/>
+    <nd ref="265204430"/>
+    <nd ref="265204432"/>
+    <nd ref="265204435"/>
+    <nd ref="265204438"/>
+    <nd ref="265204441"/>
+    <nd ref="265204443"/>
+    <nd ref="265204446"/>
+    <nd ref="265204449"/>
+    <nd ref="265204452"/>
+    <nd ref="265204455"/>
+    <nd ref="265204458"/>
+    <nd ref="265204461"/>
+    <nd ref="265204464"/>
+    <nd ref="265204468"/>
+    <nd ref="265204471"/>
+    <nd ref="265204474"/>
+    <nd ref="265204478"/>
+    <nd ref="265204482"/>
+    <nd ref="265204486"/>
+    <nd ref="265204489"/>
+    <nd ref="265204495"/>
+    <nd ref="265204498"/>
+    <nd ref="265204502"/>
+    <nd ref="265204505"/>
+    <nd ref="265204509"/>
+    <nd ref="265204513"/>
+    <nd ref="265204517"/>
+    <nd ref="265204520"/>
+    <nd ref="265204524"/>
+    <nd ref="265204528"/>
+    <nd ref="265204532"/>
+    <nd ref="265204536"/>
+    <nd ref="265204539"/>
+    <nd ref="265204543"/>
+    <nd ref="265204547"/>
+    <nd ref="265204551"/>
+    <nd ref="265204554"/>
+    <nd ref="265204558"/>
+    <nd ref="265204561"/>
+    <nd ref="265204565"/>
+    <nd ref="265204569"/>
+    <nd ref="265204573"/>
+    <nd ref="265204577"/>
+    <nd ref="265204580"/>
+    <nd ref="265204587"/>
+    <nd ref="265204591"/>
+    <nd ref="265204594"/>
+    <nd ref="265204598"/>
+    <nd ref="265204602"/>
+    <nd ref="265204606"/>
+    <nd ref="265204610"/>
+    <nd ref="265204613"/>
+    <nd ref="265204617"/>
+    <nd ref="265204621"/>
+    <nd ref="265204625"/>
+    <nd ref="265204629"/>
+    <nd ref="265204633"/>
+    <nd ref="265204636"/>
+    <nd ref="265204640"/>
+    <nd ref="265204643"/>
+    <nd ref="265204647"/>
+    <nd ref="265204651"/>
+    <nd ref="265204654"/>
+    <nd ref="265204658"/>
+    <nd ref="265204662"/>
+    <nd ref="265204666"/>
+    <nd ref="265204669"/>
+    <nd ref="265204673"/>
+    <nd ref="265204677"/>
+    <nd ref="265204680"/>
+    <nd ref="265204683"/>
+    <nd ref="265204687"/>
+    <nd ref="3998399529"/>
+    <nd ref="265204691"/>
+    <nd ref="265204695"/>
+    <nd ref="265204699"/>
+    <nd ref="265204701"/>
+    <nd ref="265204705"/>
+    <nd ref="265204709"/>
+    <nd ref="265204713"/>
+    <nd ref="265204717"/>
+    <nd ref="265204718"/>
+    <nd ref="265204720"/>
+    <nd ref="265204725"/>
+    <nd ref="265204729"/>
+    <nd ref="265204733"/>
+    <nd ref="265204736"/>
+    <nd ref="265204740"/>
+    <nd ref="265204744"/>
+    <nd ref="265204748"/>
+    <nd ref="265204751"/>
+    <nd ref="265204755"/>
+    <nd ref="265204759"/>
+    <nd ref="265204763"/>
+    <nd ref="265204767"/>
+    <nd ref="265204770"/>
+    <nd ref="265204774"/>
+    <nd ref="265204778"/>
+    <nd ref="265204782"/>
+    <nd ref="265204787"/>
+    <nd ref="265204374"/>
+    <tag k="name" v="Lagoa do Banana"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="image"/>
+    <tag k="water" v="lake"/>
+  </way>
+  <way id="24419382">
+    <nd ref="265204872"/>
+    <nd ref="265204875"/>
+    <nd ref="265204880"/>
+    <nd ref="265204883"/>
+    <nd ref="265204886"/>
+    <nd ref="265204889"/>
+    <nd ref="265204892"/>
+    <nd ref="265204896"/>
+    <nd ref="265204899"/>
+    <nd ref="265204901"/>
+    <nd ref="265204904"/>
+    <nd ref="265204872"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419383">
+    <nd ref="265204906"/>
+    <nd ref="265204907"/>
+    <nd ref="265204910"/>
+    <nd ref="265204913"/>
+    <nd ref="265204916"/>
+    <nd ref="265204919"/>
+    <nd ref="265204922"/>
+    <nd ref="265204925"/>
+    <nd ref="265204928"/>
+    <nd ref="265204931"/>
+    <nd ref="265204934"/>
+    <nd ref="265204937"/>
+    <nd ref="265204940"/>
+    <nd ref="265204943"/>
+    <nd ref="265204947"/>
+    <nd ref="265204951"/>
+    <nd ref="265204954"/>
+    <nd ref="265204957"/>
+    <nd ref="265204964"/>
+    <nd ref="265204968"/>
+    <nd ref="265204971"/>
+    <nd ref="265204975"/>
+    <nd ref="265204979"/>
+    <nd ref="265204983"/>
+    <nd ref="265204987"/>
+    <nd ref="265204906"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419384">
+    <nd ref="265204990"/>
+    <nd ref="265204994"/>
+    <nd ref="265204998"/>
+    <nd ref="265205002"/>
+    <nd ref="265205006"/>
+    <nd ref="265205010"/>
+    <nd ref="265205013"/>
+    <nd ref="265205017"/>
+    <nd ref="265205021"/>
+    <nd ref="265205025"/>
+    <nd ref="265205028"/>
+    <nd ref="265205031"/>
+    <nd ref="265205035"/>
+    <nd ref="265204990"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419385">
+    <nd ref="265205039"/>
+    <nd ref="265205043"/>
+    <nd ref="265205046"/>
+    <nd ref="265205049"/>
+    <nd ref="265205053"/>
+    <nd ref="265205057"/>
+    <nd ref="265205062"/>
+    <nd ref="265205065"/>
+    <nd ref="265205069"/>
+    <nd ref="265205039"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419386">
+    <nd ref="265205072"/>
+    <nd ref="265205076"/>
+    <nd ref="265205079"/>
+    <nd ref="265205083"/>
+    <nd ref="265205087"/>
+    <nd ref="265205091"/>
+    <nd ref="265205072"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419387">
+    <nd ref="265205095"/>
+    <nd ref="265205098"/>
+    <nd ref="265205101"/>
+    <nd ref="265205104"/>
+    <nd ref="265205108"/>
+    <nd ref="265205112"/>
+    <nd ref="265205115"/>
+    <nd ref="265205119"/>
+    <nd ref="265205095"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419388">
+    <nd ref="265205095"/>
+    <nd ref="265205123"/>
+    <nd ref="265205126"/>
+    <nd ref="265205129"/>
+    <nd ref="265205132"/>
+    <nd ref="265205136"/>
+    <nd ref="265205138"/>
+    <nd ref="265205142"/>
+    <nd ref="265205146"/>
+    <nd ref="265205152"/>
+    <nd ref="265205158"/>
+    <nd ref="265205162"/>
+    <nd ref="265204509"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="source" v="image"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="24419389">
+    <nd ref="265205035"/>
+    <nd ref="265205166"/>
+    <nd ref="265205169"/>
+    <nd ref="265205172"/>
+    <nd ref="265205176"/>
+    <nd ref="265205180"/>
+    <nd ref="265205183"/>
+    <nd ref="265204478"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="source" v="image"/>
+    <tag k="waterway" v="stream"/>
+  </way>
+  <way id="24419390">
+    <nd ref="265205186"/>
+    <nd ref="265205190"/>
+    <nd ref="265205193"/>
+    <nd ref="265205197"/>
+    <nd ref="265205200"/>
+    <nd ref="265205204"/>
+    <nd ref="265205208"/>
+    <nd ref="265205211"/>
+    <nd ref="265205215"/>
+    <nd ref="265205219"/>
+    <nd ref="265205223"/>
+    <nd ref="265205227"/>
+    <nd ref="265205230"/>
+    <nd ref="265205186"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419391">
+    <nd ref="265205234"/>
+    <nd ref="265205237"/>
+    <nd ref="265205241"/>
+    <nd ref="265205249"/>
+    <nd ref="265205253"/>
+    <nd ref="265205257"/>
+    <nd ref="265205259"/>
+    <nd ref="265205263"/>
+    <nd ref="265205267"/>
+    <nd ref="265205234"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419392">
+    <nd ref="265205271"/>
+    <nd ref="265205343"/>
+    <nd ref="265205275"/>
+    <nd ref="265205279"/>
+    <nd ref="265205282"/>
+    <nd ref="265205286"/>
+    <nd ref="265205289"/>
+    <nd ref="265205292"/>
+    <nd ref="265205294"/>
+    <nd ref="265205298"/>
+    <nd ref="265205302"/>
+    <nd ref="265205306"/>
+    <nd ref="265205310"/>
+    <nd ref="265205313"/>
+    <nd ref="265205317"/>
+    <nd ref="265205320"/>
+    <nd ref="265205324"/>
+    <nd ref="265205326"/>
+    <nd ref="265205329"/>
+    <nd ref="265205333"/>
+    <nd ref="265205340"/>
+    <nd ref="265205271"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="natural" v="water"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419407">
+    <nd ref="265206134"/>
+    <nd ref="265206137"/>
+    <nd ref="265206140"/>
+    <nd ref="265206144"/>
+    <nd ref="265206147"/>
+    <nd ref="265206150"/>
+    <nd ref="265206134"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="natural" v="water"/>
+  </way>
+  <way id="24419408">
+    <nd ref="265206153"/>
+    <nd ref="4548136092"/>
+    <nd ref="265206156"/>
+    <nd ref="265206159"/>
+    <nd ref="265206162"/>
+    <nd ref="265206165"/>
+    <nd ref="265206168"/>
+    <nd ref="3986040022"/>
+    <nd ref="265206174"/>
+    <nd ref="3771829377"/>
+    <nd ref="265206177"/>
+    <nd ref="265206180"/>
+    <nd ref="265206184"/>
+    <nd ref="265206187"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419409">
+    <nd ref="3998394834"/>
+    <nd ref="3998394833"/>
+    <nd ref="3998394832"/>
+    <nd ref="265206426"/>
+    <nd ref="265206430"/>
+    <nd ref="3998404418"/>
+    <nd ref="3998406613"/>
+    <nd ref="265206324"/>
+    <nd ref="265206328"/>
+    <nd ref="265206333"/>
+    <nd ref="265206337"/>
+    <nd ref="3771829105"/>
+    <nd ref="1714500649"/>
+    <nd ref="1714500617"/>
+    <nd ref="265206342"/>
+    <nd ref="265206347"/>
+    <nd ref="265206353"/>
+    <nd ref="265206358"/>
+    <nd ref="1714500600"/>
+    <nd ref="265206364"/>
+    <nd ref="1714500608"/>
+    <nd ref="3687472907"/>
+    <nd ref="265206376"/>
+    <nd ref="1714500643"/>
+    <nd ref="1714500651"/>
+    <nd ref="1714500661"/>
+    <nd ref="265206399"/>
+    <nd ref="1714500692"/>
+    <nd ref="1714500697"/>
+    <nd ref="1714500704"/>
+    <nd ref="1714500713"/>
+    <nd ref="1714500729"/>
+    <nd ref="1714500735"/>
+    <nd ref="265204217"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419410">
+    <nd ref="265206430"/>
+    <nd ref="265206434"/>
+    <nd ref="265206438"/>
+    <nd ref="265206309"/>
+    <tag k="highway" v="secondary_link"/>
+  </way>
+  <way id="24419411">
+    <nd ref="265206190"/>
+    <nd ref="265206193"/>
+    <nd ref="265206196"/>
+    <nd ref="265206199"/>
+    <nd ref="265206202"/>
+    <nd ref="265206206"/>
+    <nd ref="265206210"/>
+    <nd ref="265206213"/>
+    <nd ref="265206216"/>
+    <nd ref="265206219"/>
+    <nd ref="265206222"/>
+    <nd ref="265206225"/>
+    <nd ref="265206228"/>
+    <nd ref="265206231"/>
+    <nd ref="265206234"/>
+    <nd ref="265206238"/>
+    <nd ref="265206241"/>
+    <nd ref="265206244"/>
+    <nd ref="265206247"/>
+    <nd ref="265206250"/>
+    <nd ref="265206253"/>
+    <nd ref="265206256"/>
+    <nd ref="265206259"/>
+    <nd ref="265206262"/>
+    <nd ref="265206265"/>
+    <nd ref="265206268"/>
+    <nd ref="265206271"/>
+    <nd ref="265206274"/>
+    <nd ref="265206277"/>
+    <nd ref="265206280"/>
+    <nd ref="265206283"/>
+    <nd ref="265206286"/>
+    <nd ref="265206291"/>
+    <nd ref="265206297"/>
+    <nd ref="265206300"/>
+    <nd ref="265206303"/>
+    <nd ref="265206306"/>
+    <nd ref="3771829149"/>
+    <nd ref="265206309"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="24419413">
+    <nd ref="265206187"/>
+    <nd ref="265206190"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="image"/>
+  </way>
+  <way id="46525935">
+    <nd ref="595247737"/>
+    <nd ref="595247738"/>
+    <nd ref="595247739"/>
+    <nd ref="595247742"/>
+    <nd ref="595247743"/>
+    <nd ref="595247746"/>
+    <nd ref="595247747"/>
+    <nd ref="595247749"/>
+    <nd ref="595247751"/>
+    <nd ref="595247753"/>
+    <nd ref="4340592983"/>
+    <nd ref="595247755"/>
+    <nd ref="595247756"/>
+    <nd ref="1715054318"/>
+    <nd ref="1715054320"/>
+    <nd ref="1715054321"/>
+    <nd ref="595247758"/>
+    <nd ref="595247759"/>
+    <nd ref="595247760"/>
+    <nd ref="595247762"/>
+    <nd ref="595247763"/>
+    <nd ref="595247765"/>
+    <nd ref="595247768"/>
+    <nd ref="595247769"/>
+    <nd ref="595247770"/>
+    <nd ref="595247773"/>
+    <nd ref="595247774"/>
+    <nd ref="4184548466"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="source" v="Yahoo hires"/>
+  </way>
+  <way id="46526732">
+    <nd ref="595245263"/>
+    <nd ref="595245274"/>
+    <nd ref="595245546"/>
+    <nd ref="595245545"/>
+    <nd ref="595245542"/>
+    <nd ref="595245539"/>
+    <nd ref="595245537"/>
+    <nd ref="595245533"/>
+    <nd ref="595245532"/>
+    <nd ref="595245530"/>
+    <nd ref="595245528"/>
+    <nd ref="595245526"/>
+    <nd ref="595247211"/>
+    <nd ref="595247210"/>
+    <nd ref="595247209"/>
+    <nd ref="595247207"/>
+    <nd ref="595247206"/>
+    <nd ref="595247204"/>
+    <nd ref="595247201"/>
+    <nd ref="595247199"/>
+    <nd ref="595247197"/>
+    <nd ref="595247194"/>
+    <nd ref="595247191"/>
+    <nd ref="595247188"/>
+    <nd ref="595247180"/>
+    <nd ref="595247177"/>
+    <nd ref="595247176"/>
+    <nd ref="595247174"/>
+    <nd ref="595247173"/>
+    <nd ref="595247172"/>
+    <nd ref="595247171"/>
+    <nd ref="265206153"/>
+    <nd ref="595247168"/>
+    <nd ref="595247166"/>
+    <nd ref="595247164"/>
+    <nd ref="595247163"/>
+    <nd ref="595247161"/>
+    <nd ref="595247159"/>
+    <nd ref="595247158"/>
+    <nd ref="595247156"/>
+    <nd ref="595247154"/>
+    <nd ref="595247153"/>
+    <nd ref="595247151"/>
+    <nd ref="595247149"/>
+    <nd ref="595247147"/>
+    <nd ref="4464024161"/>
+    <nd ref="4464024163"/>
+    <nd ref="4464024165"/>
+    <nd ref="4184548466"/>
+    <nd ref="4464024167"/>
+    <nd ref="595247144"/>
+    <nd ref="595248480"/>
+    <nd ref="595248477"/>
+    <nd ref="595248474"/>
+    <nd ref="595248470"/>
+    <nd ref="595248467"/>
+    <nd ref="595249809"/>
+    <nd ref="595249806"/>
+    <nd ref="3986019052"/>
+    <nd ref="595248957"/>
+    <nd ref="595249805"/>
+    <nd ref="595249802"/>
+    <nd ref="595249800"/>
+    <nd ref="595249797"/>
+    <nd ref="595249795"/>
+    <nd ref="595249792"/>
+    <nd ref="3661029806"/>
+    <nd ref="1715054648"/>
+    <nd ref="1715054694"/>
+    <nd ref="595249781"/>
+    <nd ref="595249778"/>
+    <nd ref="595249776"/>
+    <nd ref="595249774"/>
+    <nd ref="1715054734"/>
+    <nd ref="1715054780"/>
+    <nd ref="1715054811"/>
+    <nd ref="595249768"/>
+    <nd ref="595249767"/>
+    <nd ref="595249765"/>
+    <nd ref="595249762"/>
+    <nd ref="595249756"/>
+    <nd ref="1715054932"/>
+    <nd ref="595249753"/>
+    <nd ref="1715054967"/>
+    <nd ref="595249752"/>
+    <nd ref="595249748"/>
+    <nd ref="1715054987"/>
+    <nd ref="595249837"/>
+    <nd ref="4425731909"/>
+    <nd ref="4425731911"/>
+    <nd ref="3926112530"/>
+    <nd ref="595250392"/>
+    <nd ref="595250390"/>
+    <nd ref="595250387"/>
+    <nd ref="595250384"/>
+    <nd ref="595250383"/>
+    <nd ref="595250379"/>
+    <nd ref="4425731917"/>
+    <nd ref="595250377"/>
+    <nd ref="595250375"/>
+    <nd ref="1719801114"/>
+    <nd ref="595250372"/>
+    <nd ref="4464024174"/>
+    <nd ref="595250370"/>
+    <nd ref="595250369"/>
+    <nd ref="595250365"/>
+    <nd ref="1714905408"/>
+    <nd ref="595250358"/>
+    <nd ref="595250356"/>
+    <nd ref="595250354"/>
+    <nd ref="1714905435"/>
+    <nd ref="595250351"/>
+    <nd ref="2891647804"/>
+    <nd ref="2891647805"/>
+    <nd ref="2891640630"/>
+    <nd ref="595250346"/>
+    <nd ref="2891640612"/>
+    <nd ref="2891611659"/>
+    <nd ref="2891611658"/>
+    <nd ref="2891611656"/>
+    <nd ref="595250694"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Rota do Sol Poente"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CE-085"/>
+    <tag k="source" v="Yahoo hires"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="92931837">
+    <nd ref="1714500617"/>
+    <nd ref="3153682330"/>
+    <nd ref="1714500625"/>
+    <nd ref="1077393924"/>
+    <nd ref="1714500644"/>
+    <nd ref="3687472906"/>
+    <nd ref="1714500689"/>
+    <nd ref="1714500700"/>
+    <nd ref="1714500712"/>
+    <nd ref="1077393934"/>
+    <nd ref="1077393938"/>
+    <nd ref="1714500740"/>
+    <nd ref="1714500746"/>
+    <nd ref="3736314297"/>
+    <nd ref="1077393943"/>
+    <nd ref="3736314298"/>
+    <nd ref="1077393945"/>
+    <nd ref="1714500774"/>
+    <nd ref="1077393947"/>
+    <nd ref="3687472898"/>
+    <nd ref="988285322"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159340118">
+    <nd ref="1714500732"/>
+    <nd ref="1714500743"/>
+    <nd ref="1714500750"/>
+    <nd ref="1714500758"/>
+    <nd ref="1714500775"/>
+    <nd ref="1714500778"/>
+    <nd ref="1714500787"/>
+    <nd ref="1714500796"/>
+    <nd ref="1714500813"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159340180">
+    <nd ref="1714500632"/>
+    <nd ref="1714500692"/>
+    <nd ref="1077393938"/>
+    <nd ref="1714500758"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159340182">
+    <nd ref="1714500604"/>
+    <nd ref="1714500643"/>
+    <nd ref="1714500689"/>
+    <nd ref="1714500709"/>
+    <nd ref="3687472902"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159340184">
+    <nd ref="1714500649"/>
+    <nd ref="1714500683"/>
+    <nd ref="3687472904"/>
+    <nd ref="1714500709"/>
+    <nd ref="1714500732"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159340187">
+    <nd ref="1714500620"/>
+    <nd ref="1714500661"/>
+    <nd ref="1714500712"/>
+    <nd ref="1714500743"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159340194">
+    <nd ref="1714500613"/>
+    <nd ref="1714500651"/>
+    <nd ref="1714500700"/>
+    <nd ref="1714500732"/>
+    <nd ref="3687472903"/>
+    <nd ref="1714500777"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159340198">
+    <nd ref="1714500646"/>
+    <nd ref="1714500697"/>
+    <nd ref="1714500740"/>
+    <nd ref="1714500778"/>
+    <nd ref="1714500830"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159340200">
+    <nd ref="1714500596"/>
+    <nd ref="1714500608"/>
+    <nd ref="1714500644"/>
+    <nd ref="1714500683"/>
+    <nd ref="1714500707"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159389348">
+    <nd ref="1715054318"/>
+    <nd ref="1715054323"/>
+    <nd ref="1715054325"/>
+    <nd ref="1715054332"/>
+    <nd ref="1715054414"/>
+    <nd ref="1715054477"/>
+    <nd ref="1715054491"/>
+    <nd ref="1715054498"/>
+    <nd ref="1715054535"/>
+    <nd ref="1715054543"/>
+    <nd ref="1715054559"/>
+    <nd ref="1715054567"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159389353">
+    <nd ref="1077383843"/>
+    <nd ref="1715054262"/>
+    <nd ref="1715054252"/>
+    <nd ref="1715054250"/>
+    <nd ref="1715054244"/>
+    <nd ref="1715054235"/>
+    <nd ref="1715054227"/>
+    <nd ref="1715054247"/>
+    <nd ref="1715054236"/>
+    <nd ref="1715054233"/>
+    <nd ref="1715054225"/>
+    <nd ref="1715054223"/>
+    <nd ref="1715054217"/>
+    <nd ref="1715054212"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159389388">
+    <nd ref="1715054252"/>
+    <nd ref="1715054293"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159389482">
+    <nd ref="1715054262"/>
+    <nd ref="1715054267"/>
+    <nd ref="1715054296"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159389612">
+    <nd ref="1715054320"/>
+    <nd ref="1715054326"/>
+    <nd ref="1715054340"/>
+    <nd ref="1715054351"/>
+    <nd ref="1715054364"/>
+    <nd ref="1715054367"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="159389650">
+    <nd ref="1715054302"/>
+    <nd ref="1715054296"/>
+    <nd ref="1715054293"/>
+    <nd ref="1715054291"/>
+    <nd ref="1715054285"/>
+    <nd ref="1715054275"/>
+    <nd ref="1715054271"/>
+    <nd ref="1715054247"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="310012061">
+    <nd ref="3153682330"/>
+    <nd ref="3153682331"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="310012062">
+    <nd ref="3153682332"/>
+    <nd ref="3153682333"/>
+    <nd ref="3153682334"/>
+    <nd ref="3153682335"/>
+    <nd ref="3153682336"/>
+    <nd ref="3153682337"/>
+    <nd ref="3153682338"/>
+    <nd ref="3153682339"/>
+    <nd ref="3153682340"/>
+    <nd ref="3153682341"/>
+    <nd ref="3153682342"/>
+    <nd ref="3153682343"/>
+    <nd ref="3153682344"/>
+    <nd ref="3153682345"/>
+    <nd ref="3153682346"/>
+    <nd ref="3153682347"/>
+    <nd ref="3153682332"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="310012063">
+    <nd ref="3153682348"/>
+    <nd ref="3153682349"/>
+    <nd ref="3153682350"/>
+    <nd ref="3153682351"/>
+    <nd ref="3153682352"/>
+    <nd ref="3153682353"/>
+    <nd ref="3153682354"/>
+    <nd ref="3153682355"/>
+    <nd ref="3153682356"/>
+    <nd ref="3153682357"/>
+    <nd ref="3153682358"/>
+    <nd ref="3153682359"/>
+    <nd ref="3153682360"/>
+    <nd ref="3153683061"/>
+    <nd ref="3153683062"/>
+    <nd ref="3153683063"/>
+    <nd ref="3153683064"/>
+    <nd ref="3153683065"/>
+    <nd ref="3153682348"/>
+    <tag k="access" v="private"/>
+    <tag k="leisure" v="swimming_pool"/>
+  </way>
+  <way id="311265980">
+    <nd ref="3168636449"/>
+    <nd ref="3168636448"/>
+    <nd ref="4548136097"/>
+    <nd ref="3168636447"/>
+    <nd ref="4548136096"/>
+    <nd ref="3168636446"/>
+    <nd ref="4548136095"/>
+    <nd ref="3168636445"/>
+    <nd ref="3168636444"/>
+    <nd ref="3168636443"/>
+    <nd ref="3168636442"/>
+    <nd ref="3168636441"/>
+    <nd ref="3168636440"/>
+    <nd ref="3168636439"/>
+    <nd ref="3168636438"/>
+    <nd ref="3168636437"/>
+    <nd ref="1715054832"/>
+    <nd ref="3168636436"/>
+    <nd ref="3168636435"/>
+    <nd ref="1715054707"/>
+    <nd ref="3168636434"/>
+    <nd ref="4548136094"/>
+    <nd ref="3168636433"/>
+    <nd ref="1715054647"/>
+    <nd ref="4365480539"/>
+    <nd ref="4548136093"/>
+    <nd ref="3168636431"/>
+    <nd ref="3168636430"/>
+    <nd ref="3168636429"/>
+    <nd ref="3168636428"/>
+    <nd ref="3168636427"/>
+    <nd ref="4365517246"/>
+    <nd ref="3168636426"/>
+    <nd ref="3168636425"/>
+    <nd ref="3168636424"/>
+    <nd ref="3168636423"/>
+    <nd ref="3168636422"/>
+    <nd ref="3168636421"/>
+    <nd ref="3168636420"/>
+    <nd ref="3168636419"/>
+    <nd ref="3168636418"/>
+    <nd ref="3168636417"/>
+    <nd ref="3168636411"/>
+    <nd ref="3168636395"/>
+    <nd ref="4464024166"/>
+    <nd ref="4464024164"/>
+    <nd ref="4464024162"/>
+    <nd ref="4464024160"/>
+    <nd ref="3168636393"/>
+    <nd ref="3168636392"/>
+    <nd ref="3168636391"/>
+    <nd ref="3168636390"/>
+    <nd ref="3168636389"/>
+    <nd ref="3168636388"/>
+    <nd ref="3168636387"/>
+    <nd ref="3168636386"/>
+    <nd ref="3168636378"/>
+    <nd ref="3168636376"/>
+    <nd ref="3168636374"/>
+    <nd ref="3168636372"/>
+    <nd ref="3168636368"/>
+    <nd ref="3168636369"/>
+    <nd ref="4548136092"/>
+    <nd ref="3168636370"/>
+    <nd ref="3168636371"/>
+    <nd ref="3168636373"/>
+    <nd ref="3168636375"/>
+    <nd ref="3168636377"/>
+    <nd ref="3168636379"/>
+    <nd ref="3168636380"/>
+    <nd ref="3168636381"/>
+    <nd ref="3168636382"/>
+    <nd ref="3168636383"/>
+    <nd ref="3168636384"/>
+    <nd ref="3168636385"/>
+    <nd ref="3168636394"/>
+    <nd ref="3168636396"/>
+    <nd ref="3168636397"/>
+    <nd ref="3168636398"/>
+    <nd ref="3168636399"/>
+    <nd ref="3168636400"/>
+    <nd ref="3168636404"/>
+    <nd ref="3168636405"/>
+    <nd ref="3168636406"/>
+    <nd ref="3168636402"/>
+    <nd ref="3168636403"/>
+    <nd ref="3168636407"/>
+    <nd ref="3168636413"/>
+    <nd ref="3168636415"/>
+    <nd ref="3168636416"/>
+    <nd ref="3168636414"/>
+    <nd ref="3168636412"/>
+    <nd ref="3168636410"/>
+    <nd ref="3168636409"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Rota do Sol Poente"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="CE-085"/>
+  </way>
+  <way id="364702145">
+    <nd ref="3687472902"/>
+    <nd ref="3687472903"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="364702146">
+    <nd ref="3687472904"/>
+    <nd ref="3687472905"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="364702147">
+    <nd ref="3687472906"/>
+    <nd ref="3687472907"/>
+    <nd ref="3687472908"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="373769784">
+    <nd ref="3771829260"/>
+    <nd ref="3771829266"/>
+    <nd ref="3771829272"/>
+    <nd ref="3771829276"/>
+    <nd ref="3771829281"/>
+    <nd ref="3771829284"/>
+    <nd ref="3771829290"/>
+    <nd ref="3771827524"/>
+    <nd ref="3771827533"/>
+    <nd ref="3771827539"/>
+    <nd ref="3771827541"/>
+    <nd ref="3771827545"/>
+    <nd ref="3771827550"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769787">
+    <nd ref="3771829513"/>
+    <nd ref="3771829511"/>
+    <nd ref="3771829509"/>
+    <nd ref="3771829507"/>
+    <nd ref="3771829506"/>
+    <nd ref="3771829503"/>
+    <nd ref="3771829501"/>
+    <nd ref="3771829486"/>
+    <nd ref="3771829484"/>
+    <nd ref="3771829481"/>
+    <nd ref="3771829478"/>
+    <nd ref="3771829474"/>
+    <nd ref="3771829473"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769789">
+    <nd ref="3771829473"/>
+    <nd ref="3771829475"/>
+    <nd ref="3771829476"/>
+    <nd ref="3771829480"/>
+    <nd ref="3771829483"/>
+    <nd ref="3771829461"/>
+    <nd ref="3771829372"/>
+    <nd ref="3771827552"/>
+    <nd ref="3771827531"/>
+    <nd ref="3771827511"/>
+    <nd ref="3771829273"/>
+    <nd ref="3771829258"/>
+    <nd ref="3771829084"/>
+    <nd ref="3771829061"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769838">
+    <nd ref="3771829513"/>
+    <nd ref="3771829510"/>
+    <nd ref="3771829492"/>
+    <nd ref="3771829482"/>
+    <nd ref="3771829471"/>
+    <nd ref="3771829467"/>
+    <nd ref="3771829459"/>
+    <nd ref="3771829398"/>
+    <nd ref="3771829395"/>
+    <nd ref="3771829385"/>
+    <nd ref="3771829382"/>
+    <nd ref="3771829380"/>
+    <nd ref="3771829376"/>
+    <nd ref="3771829374"/>
+    <nd ref="3771829364"/>
+    <nd ref="3771829365"/>
+    <nd ref="3771829288"/>
+    <nd ref="3771829282"/>
+    <nd ref="3771829277"/>
+    <nd ref="3771829269"/>
+    <nd ref="3771829260"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769846">
+    <nd ref="3771829259"/>
+    <nd ref="3771829264"/>
+    <nd ref="3771829268"/>
+    <nd ref="3771829274"/>
+    <nd ref="3771829279"/>
+    <nd ref="3771829287"/>
+    <nd ref="3771829291"/>
+    <nd ref="3771827509"/>
+    <nd ref="3771827516"/>
+    <nd ref="1077383843"/>
+    <nd ref="3771827544"/>
+    <nd ref="3771827551"/>
+    <nd ref="1715054302"/>
+    <nd ref="3771829359"/>
+    <nd ref="3771829361"/>
+    <nd ref="3771829367"/>
+    <nd ref="3771829368"/>
+    <nd ref="3771829371"/>
+    <nd ref="3771829377"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769878">
+    <nd ref="3771829149"/>
+    <nd ref="3771829127"/>
+    <nd ref="3771829116"/>
+    <nd ref="3771829114"/>
+    <nd ref="3771829099"/>
+    <nd ref="3771829097"/>
+    <nd ref="3771829093"/>
+    <nd ref="3771829096"/>
+    <nd ref="3771829095"/>
+    <nd ref="3771829091"/>
+    <nd ref="3771829086"/>
+    <nd ref="3771829083"/>
+    <nd ref="3771829098"/>
+    <nd ref="3771829088"/>
+    <nd ref="3771829089"/>
+    <nd ref="3771829121"/>
+    <nd ref="3771829135"/>
+    <nd ref="3771829150"/>
+    <nd ref="3771829151"/>
+    <nd ref="3771829153"/>
+    <nd ref="3771829156"/>
+    <nd ref="3771829259"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="373769882">
+    <nd ref="3771829061"/>
+    <nd ref="3771829062"/>
+    <nd ref="3771829064"/>
+    <nd ref="3771829068"/>
+    <nd ref="3771829067"/>
+    <nd ref="3771829066"/>
+    <nd ref="3771829065"/>
+    <nd ref="3771829069"/>
+    <nd ref="3771829071"/>
+    <nd ref="3771829072"/>
+    <nd ref="3771829073"/>
+    <nd ref="3771829074"/>
+    <nd ref="3771829075"/>
+    <nd ref="3771829076"/>
+    <nd ref="3771829100"/>
+    <nd ref="3771829102"/>
+    <nd ref="3771829103"/>
+    <nd ref="3771829106"/>
+    <nd ref="3771829107"/>
+    <nd ref="3771829113"/>
+    <nd ref="3771829117"/>
+    <nd ref="3771829130"/>
+    <nd ref="3771829134"/>
+    <nd ref="1077383919"/>
+    <nd ref="3771829143"/>
+    <nd ref="3771829139"/>
+    <nd ref="3771829131"/>
+    <nd ref="3771829132"/>
+    <nd ref="3771829142"/>
+    <nd ref="3771829147"/>
+    <nd ref="3771829152"/>
+    <nd ref="3771829154"/>
+    <nd ref="3771829155"/>
+    <nd ref="3771829259"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="397008676">
+    <nd ref="3771829105"/>
+    <nd ref="3998394819"/>
+    <nd ref="3998394820"/>
+    <nd ref="3998394821"/>
+    <nd ref="3998394822"/>
+    <nd ref="3998394823"/>
+    <nd ref="3998394824"/>
+    <nd ref="3998394825"/>
+    <nd ref="3998406617"/>
+    <nd ref="3998394826"/>
+    <nd ref="3998394827"/>
+    <nd ref="3998394828"/>
+    <nd ref="3998406412"/>
+    <nd ref="3998394829"/>
+    <nd ref="3998394830"/>
+    <nd ref="3998394834"/>
+    <nd ref="3998394831"/>
+    <nd ref="3998394835"/>
+    <nd ref="3997660004"/>
+    <nd ref="3998394836"/>
+    <nd ref="3998394837"/>
+    <nd ref="3998394838"/>
+    <nd ref="3998394839"/>
+    <nd ref="3998394840"/>
+    <nd ref="3998394841"/>
+    <nd ref="3998394842"/>
+    <nd ref="3998394843"/>
+    <nd ref="3998394844"/>
+    <nd ref="3998394845"/>
+    <nd ref="3998394846"/>
+    <nd ref="3998394847"/>
+    <nd ref="3998394018"/>
+    <nd ref="3998399502"/>
+    <nd ref="3998394848"/>
+    <nd ref="3998394849"/>
+    <nd ref="3998394850"/>
+    <nd ref="3998394851"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="397009977">
+    <nd ref="3998404418"/>
+    <nd ref="3998404419"/>
+    <nd ref="265206309"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="397010290">
+    <nd ref="3998406412"/>
+    <nd ref="3998406413"/>
+    <nd ref="3998406414"/>
+    <nd ref="3998406415"/>
+    <nd ref="3998406416"/>
+    <nd ref="3998406417"/>
+    <nd ref="3998406418"/>
+    <nd ref="3998406419"/>
+    <nd ref="3998406420"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="397010312">
+    <nd ref="265206426"/>
+    <nd ref="3998406610"/>
+    <nd ref="3998406611"/>
+    <nd ref="3998406612"/>
+    <nd ref="3998394828"/>
+    <tag k="highway" v="secondary"/>
+  </way>
+  <way id="397010313">
+    <nd ref="3998406613"/>
+    <nd ref="3998406614"/>
+    <nd ref="3998406615"/>
+    <nd ref="3998406616"/>
+    <nd ref="3998406617"/>
+    <tag k="highway" v="secondary"/>
+  </way>
+  <way id="419843654">
+    <nd ref="3771829377"/>
+    <nd ref="3771829460"/>
+    <nd ref="3771829463"/>
+    <nd ref="3771829464"/>
+    <nd ref="3771829469"/>
+    <nd ref="3771829470"/>
+    <nd ref="3771829473"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="419889452">
+    <nd ref="3771829105"/>
+    <nd ref="3771829124"/>
+    <nd ref="3771829138"/>
+    <nd ref="3771829140"/>
+    <nd ref="3771829144"/>
+    <nd ref="3771829141"/>
+    <nd ref="3998406615"/>
+    <nd ref="3771829120"/>
+    <nd ref="265206309"/>
+    <nd ref="3771829149"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="419889453">
+    <nd ref="3771829260"/>
+    <nd ref="3771829257"/>
+    <nd ref="3771829105"/>
+    <tag k="source" v="Prefeitura Municipal de Caucaia"/>
+  </way>
+  <way id="436181397">
+    <nd ref="265206153"/>
+    <nd ref="4340592980"/>
+    <nd ref="4340592981"/>
+    <nd ref="4340592982"/>
+    <nd ref="4340592983"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <relation id="4166243">
+    <member type="way" ref="311257879" role=""/>
+    <member type="way" ref="311263533" role=""/>
+    <member type="way" ref="406893126" role=""/>
+    <member type="way" ref="406893136" role=""/>
+    <member type="way" ref="311257878" role=""/>
+    <member type="way" ref="311263534" role=""/>
+    <member type="way" ref="311257880" role=""/>
+    <member type="way" ref="406893124" role=""/>
+    <member type="way" ref="406893133" role=""/>
+    <member type="way" ref="311257882" role=""/>
+    <member type="way" ref="311258288" role=""/>
+    <member type="way" ref="406893131" role=""/>
+    <member type="way" ref="406893121" role=""/>
+    <member type="way" ref="311258290" role=""/>
+    <member type="way" ref="138949333" role=""/>
+    <member type="way" ref="311263531" role=""/>
+    <member type="way" ref="311258292" role=""/>
+    <member type="way" ref="406893137" role=""/>
+    <member type="way" ref="138949330" role=""/>
+    <member type="way" ref="311258295" role=""/>
+    <member type="way" ref="311258298" role=""/>
+    <member type="way" ref="311258314" role=""/>
+    <member type="way" ref="311258303" role=""/>
+    <member type="way" ref="311258306" role=""/>
+    <member type="way" ref="139018235" role=""/>
+    <member type="way" ref="311258315" role=""/>
+    <member type="way" ref="311258314" role=""/>
+    <member type="way" ref="311258312" role=""/>
+    <member type="way" ref="311263530" role=""/>
+    <member type="way" ref="311263532" role=""/>
+    <member type="way" ref="232163378" role=""/>
+    <member type="way" ref="421177540" role=""/>
+    <member type="way" ref="311264223" role=""/>
+    <member type="way" ref="311264222" role=""/>
+    <member type="way" ref="311264221" role=""/>
+    <member type="way" ref="232163377" role=""/>
+    <member type="way" ref="195520088" role=""/>
+    <member type="way" ref="195520087" role=""/>
+    <member type="way" ref="179219241" role=""/>
+    <member type="way" ref="46527180" role=""/>
+    <member type="way" ref="311265977" role=""/>
+    <member type="way" ref="46527606" role=""/>
+    <member type="way" ref="46527609" role=""/>
+    <member type="way" ref="46527180" role=""/>
+    <member type="way" ref="311265977" role=""/>
+    <member type="way" ref="46527173" role=""/>
+    <member type="way" ref="46526732" role=""/>
+    <member type="way" ref="46527120" role=""/>
+    <member type="way" ref="311265979" role=""/>
+    <member type="way" ref="46526732" role=""/>
+    <member type="way" ref="311265980" role=""/>
+    <member type="way" ref="46524682" role=""/>
+    <member type="way" ref="311265974" role=""/>
+    <member type="way" ref="311265978" role=""/>
+    <tag k="ref" v="CE-085"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="5556909">
+    <member type="way" ref="373769882" role="outer"/>
+    <member type="way" ref="373769846" role="outer"/>
+    <member type="way" ref="419843654" role="outer"/>
+    <member type="way" ref="373769789" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Caraúbas"/>
+    <tag k="place" v="suburb"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="5556914">
+    <member type="way" ref="373769782" role="outer"/>
+    <member type="way" ref="373790995" role="outer"/>
+    <member type="way" ref="373769874" role="outer"/>
+    <member type="way" ref="373769828" role="outer"/>
+    <member type="way" ref="373769784" role="outer"/>
+    <member type="way" ref="419889453" role="outer"/>
+    <member type="way" ref="419889452" role="outer"/>
+    <member type="way" ref="373769878" role="outer"/>
+    <member type="way" ref="373769882" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Cumbuco"/>
+    <tag k="place" v="suburb"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="5556916">
+    <member type="way" ref="373769784" role="outer"/>
+    <member type="way" ref="373769811" role="outer"/>
+    <member type="way" ref="373769836" role="outer"/>
+    <member type="way" ref="373769917" role="outer"/>
+    <member type="way" ref="373769785" role="outer"/>
+    <member type="way" ref="373769838" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Garrote"/>
+    <tag k="place" v="suburb"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+  <relation id="5556928">
+    <member type="way" ref="373769838" role="outer"/>
+    <member type="way" ref="373769787" role="outer"/>
+    <member type="way" ref="419843654" role="outer"/>
+    <member type="way" ref="373769846" role="outer"/>
+    <member type="way" ref="373769878" role="outer"/>
+    <member type="way" ref="419889452" role="outer"/>
+    <member type="way" ref="419889453" role="outer"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Lagoa do Banana"/>
+    <tag k="place" v="suburb"/>
+    <tag k="type" v="boundary"/>
+  </relation>
+
+</osm>
