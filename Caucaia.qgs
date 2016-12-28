@@ -5,115 +5,115 @@
     <customproperties/>
     <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="Caucaia Group">
       <customproperties/>
-      <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="Rotas">
+      <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="Routes">
         <customproperties/>
         <layer-tree-layer expanded="1" checked="Qt::Checked" id="routes20161227223915643" name="routes">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Checked" id="routes20161227223747686" name="routes">
+        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="routes20161227223747686" name="routes">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route120161227141916108" name="route1">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route120161227141916108" name="route1">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route220161227142102808" name="route2">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route220161227142102808" name="route2">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route320161227142519470" name="route3">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route320161227142519470" name="route3">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route420161227142616595" name="route4">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route420161227142616595" name="route4">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route520161227143358010" name="route5">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route520161227143358010" name="route5">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route620161227144115528" name="route6">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route620161227144115528" name="route6">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route720161227144133166" name="route7">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route720161227144133166" name="route7">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route820161227144156133" name="route8">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route820161227144156133" name="route8">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route920161227145517537" name="route9">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route920161227145517537" name="route9">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route1020161227145538537" name="route10">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route1020161227145538537" name="route10">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route1120161227145605108" name="route11">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route1120161227145605108" name="route11">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route1220161227145704135" name="route12">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route1220161227145704135" name="route12">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route1320161227145721921" name="route13">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route1320161227145721921" name="route13">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route1420161227145747803" name="route14">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route1420161227145747803" name="route14">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route1520161227145812427" name="route15">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route1520161227145812427" name="route15">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route1620161227145829596" name="route16">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route1620161227145829596" name="route16">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route1720161227151814764" name="route17">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route1720161227151814764" name="route17">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route1820161227151839001" name="route18">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route1820161227151839001" name="route18">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route1920161227151902437" name="route19">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route1920161227151902437" name="route19">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route2020161227151925507" name="route20">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route2020161227151925507" name="route20">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route2120161227151944879" name="route21">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route2120161227151944879" name="route21">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route2220161227152027516" name="route22">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route2220161227152027516" name="route22">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route2320161227152112338" name="route23">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route2320161227152112338" name="route23">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route2420161227152136457" name="route24">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route2420161227152136457" name="route24">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route2520161227152151859" name="route25">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route2520161227152151859" name="route25">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route2620161227152211363" name="route26">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route2620161227152211363" name="route26">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route2720161227152257834" name="route27">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route2720161227152257834" name="route27">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route2820161227152315506" name="route28">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route2820161227152315506" name="route28">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route2920161227152341475" name="route29">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route2920161227152341475" name="route29">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route3020161227152400939" name="route30">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route3020161227152400939" name="route30">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="route3120161227152417246" name="route31">
+        <layer-tree-layer expanded="1" checked="Qt::Checked" id="route3120161227152417246" name="route31">
           <customproperties/>
         </layer-tree-layer>
       </layer-tree-group>
-      <layer-tree-group expanded="0" checked="Qt::Checked" name="Linhas">
+      <layer-tree-group expanded="0" checked="Qt::Checked" name="Lines">
         <customproperties/>
         <layer-tree-layer expanded="1" checked="Qt::Checked" id="CaucaiaPolylines20161227140429645" name="CaucaiaPolylines">
           <customproperties/>
         </layer-tree-layer>
       </layer-tree-group>
-      <layer-tree-group expanded="0" checked="Qt::Checked" name="Areas">
+      <layer-tree-group expanded="1" checked="Qt::Checked" name="Areas">
         <customproperties/>
         <layer-tree-layer expanded="1" checked="Qt::Checked" id="Mid220161226192233314" name="Mid2">
           <customproperties>
@@ -465,12 +465,12 @@
         </layer-tree-layer>
       </layer-tree-group>
     </layer-tree-group>
-    <layer-tree-layer expanded="1" checked="Qt::Checked" id="OpenLayers_plugin_layer20161226133528435" name="Google Streets">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="OpenLayers_plugin_layer20161226133528435" name="Google Streets">
       <customproperties>
         <property key="expandedLegendNodes"/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="OpenStreetMap20161226125550572" name="OpenStreetMap">
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="OpenStreetMap20161226125550572" name="OpenStreetMap">
       <customproperties>
         <property key="expandedLegendNodes"/>
       </customproperties>
@@ -480,10 +480,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>-38.96427985000000405</xmin>
-      <ymin>-4.00136252499999934</ymin>
-      <xmax>-38.58204414999999443</xmax>
-      <ymax>-3.53955047499999997</ymax>
+      <xmin>-39.00927943500000339</xmin>
+      <ymin>-4.00310900500000066</ymin>
+      <xmax>-38.57753896499999513</xmax>
+      <ymax>-3.53652659500000022</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -537,9 +537,9 @@
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="chinese_postman20161226201607550"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="chinese_postman20161227143532141"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="route3020161227152400939"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="routes20161227223747686"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="OSM_15977458520161227085205213"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="chinese_postman20161227151732146"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="routes20161227223747686"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OSM_15977167720161226160007304"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Icarai20161227091726542"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="LagoaDoBanana_lines20161226201352371"/>
@@ -622,6 +622,7 @@
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OSM_15969735020161226154742941"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="chinese_postman20161227150732792"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="TabapuaBrasilia2_lines20161226152749929"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenStreetMap20161226125550572"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Caucaia_Pacheco_lines20161226142000288"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="OSM_15981644720161227090745461"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="chinese_postman20161226145247731"/>
@@ -805,181 +806,181 @@
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
     <legendgroup open="true" checked="Qt::PartiallyChecked" name="Caucaia Group">
-      <legendgroup open="true" checked="Qt::PartiallyChecked" name="Rotas">
+      <legendgroup open="true" checked="Qt::PartiallyChecked" name="Routes">
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="routes" showFeatureCount="0">
           <filegroup open="true" hidden="false">
             <legendlayerfile isInOverview="0" layerid="routes20161227223915643" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="routes" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="routes" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="routes20161227223747686" visible="1"/>
+            <legendlayerfile isInOverview="0" layerid="routes20161227223747686" visible="0"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route1" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route1" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route120161227141916108" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route120161227141916108" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route2" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route2" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route220161227142102808" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route220161227142102808" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route3" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route3" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route320161227142519470" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route320161227142519470" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route4" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route4" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route420161227142616595" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route420161227142616595" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route5" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route5" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route520161227143358010" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route520161227143358010" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route6" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route6" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route620161227144115528" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route620161227144115528" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route7" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route7" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route720161227144133166" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route720161227144133166" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route8" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route8" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route820161227144156133" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route820161227144156133" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route9" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route9" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route920161227145517537" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route920161227145517537" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route10" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route10" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route1020161227145538537" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route1020161227145538537" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route11" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route11" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route1120161227145605108" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route1120161227145605108" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route12" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route12" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route1220161227145704135" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route1220161227145704135" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route13" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route13" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route1320161227145721921" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route1320161227145721921" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route14" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route14" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route1420161227145747803" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route1420161227145747803" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route15" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route15" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route1520161227145812427" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route1520161227145812427" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route16" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route16" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route1620161227145829596" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route1620161227145829596" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route17" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route17" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route1720161227151814764" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route1720161227151814764" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route18" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route18" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route1820161227151839001" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route1820161227151839001" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route19" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route19" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route1920161227151902437" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route1920161227151902437" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route20" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route20" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route2020161227151925507" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route2020161227151925507" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route21" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route21" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route2120161227151944879" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route2120161227151944879" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route22" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route22" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route2220161227152027516" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route2220161227152027516" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route23" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route23" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route2320161227152112338" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route2320161227152112338" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route24" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route24" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route2420161227152136457" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route2420161227152136457" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route25" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route25" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route2520161227152151859" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route2520161227152151859" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route26" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route26" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route2620161227152211363" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route2620161227152211363" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route27" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route27" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route2720161227152257834" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route2720161227152257834" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route28" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route28" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route2820161227152315506" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route2820161227152315506" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route29" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route29" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route2920161227152341475" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route2920161227152341475" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route30" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route30" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route3020161227152400939" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route3020161227152400939" visible="1"/>
           </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="route31" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="route31" showFeatureCount="0">
           <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="route3120161227152417246" visible="0"/>
+            <legendlayerfile isInOverview="0" layerid="route3120161227152417246" visible="1"/>
           </filegroup>
         </legendlayer>
       </legendgroup>
-      <legendgroup open="false" checked="Qt::Checked" name="Linhas">
+      <legendgroup open="false" checked="Qt::Checked" name="Lines">
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="CaucaiaPolylines" showFeatureCount="0">
           <filegroup open="true" hidden="false">
             <legendlayerfile isInOverview="0" layerid="CaucaiaPolylines20161227140429645" visible="1"/>
           </filegroup>
         </legendlayer>
       </legendgroup>
-      <legendgroup open="false" checked="Qt::Checked" name="Areas">
+      <legendgroup open="true" checked="Qt::Checked" name="Areas">
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Mid2" showFeatureCount="1">
           <filegroup open="true" hidden="false">
             <legendlayerfile isInOverview="0" layerid="Mid220161226192233314" visible="1"/>
@@ -1282,14 +1283,14 @@
         </legendlayer>
       </legendgroup>
     </legendgroup>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Google Streets" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Google Streets" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="OpenLayers_plugin_layer20161226133528435" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="OpenLayers_plugin_layer20161226133528435" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="OpenStreetMap" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="OpenStreetMap" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="OpenStreetMap20161226125550572" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="OpenStreetMap20161226125550572" visible="1"/>
       </filegroup>
     </legendlayer>
   </legend>
@@ -15191,14 +15192,14 @@ def my_form_open(dialog, layer, feature):
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions/>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
@@ -15277,14 +15278,14 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
         </edittype>
       </edittypes>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions/>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
