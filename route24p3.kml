@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="route24p3" id="route24p3">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="string"></SimpleField>
+	<SimpleField name="extrude" type="string"></SimpleField>
+	<SimpleField name="visibility" type="string"></SimpleField>
+	<SimpleField name="drawOrder" type="string"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="distance" type="string"></SimpleField>
+	<SimpleField name="descript_1" type="string"></SimpleField>
+</Schema>
+<Folder><name>route24p3</name>
+  <Placemark>
+	<name>24p3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#route24p3">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-38.9521122,-3.7543772,0 -38.9515972,-3.7548482,0 -38.9513612,-3.7554049,0 -38.9516616,-3.75624,0 -38.9515972,-3.7575889,0 -38.9515972,-3.758895,0 -38.9501595,-3.7591091,0 -38.9516401,-3.758895,0 -38.9515543,-3.7593446,0 -38.945632,-3.7612717,0 -38.9515328,-3.759366,0 -38.9518118,-3.7605437,0 -38.9518976,-3.7609291,0 -38.9546013,-3.7601797,0 -38.9543867,-3.7602225,0 -38.9544082,-3.7597943,0 -38.9541721,-3.7585524,0 -38.9535284,-3.7575889,0 -38.9532495,-3.7574604,0 -38.9532709,-3.7571178,0 -38.954494,-3.7571392,0 -38.9555454,-3.7576317,0 -38.9564037,-3.7565825,0 -38.9564252,-3.754056,0 -38.9560604,-3.7528783,0 -38.954376,-3.7516793,0 -38.953582,-3.7515401,0 -38.9532495,-3.7522574,0 -38.9527345,-3.7530282,0 -38.9525843,-3.7538419,0 -38.9523482,-3.7542915,0 -38.9520693,-3.7546127,0 -38.9523268,-3.7561329,0 -38.9525199,-3.7561115,0 -38.952477,-3.7557261,0 -38.9529705,-3.7552979,0 -38.9533997,-3.7555976,0 -38.952992,-3.755255,0 -38.9524555,-3.7557047,0 -38.9525199,-3.7561543,0 -38.9523053,-3.7561757,0 -38.9524126,-3.7571607,0 -38.9516401,-3.7576103,0 -38.9515972,-3.7582526,0 -38.9530993,-3.7583383,0 -38.9534426,-3.7588308,0 -38.9530993,-3.7583383,0 -38.9525628,-3.7583811,0 -38.9527345,-3.7579101,0 -38.9526272,-3.7575247,0 -38.9534855,-3.7578672,0 -38.9537644,-3.7582526,0 -38.9544082,-3.761079,0 -38.9545584,-3.7617213,0 -38.9543653,-3.7627705,0 -38.9540863,-3.7631987,0 -38.9541507,-3.7642693,0 -38.9538288,-3.7647189,0 -38.9543438,-3.7647189,0 -38.9549017,-3.7639481,0 -38.9543009,-3.7647403,0 -38.9554596,-3.7645476,0 -38.9556956,-3.7640552,0 -38.9554811,-3.7635627,0 -38.9556956,-3.764098,0 -38.9554596,-3.7645904,0 -38.9542794,-3.7647617,0 -38.953743,-3.7646975,0 -38.9531636,-3.764462,0 -38.9519191,-3.76337,0 -38.9525628,-3.7632629,0 -38.9518762,-3.7633914,0 -38.9515114,-3.7618712,0 -38.951726,-3.7612074,0 -38.9520264,-3.7616785,0 -38.9527774,-3.7616571,0</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
