@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>route21p10N</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-38.6696434,-3.8078189,0 -38.6693001,-3.8057635,0 -38.6699438,-3.8052069,0 -38.670845,-3.8061917,0 -38.67342,-3.8041792,0 -38.6741924,-3.805164,0 -38.6717892,-3.8073051,0 -38.670845,-3.8061917,0 -38.6749649,-3.8027661,0 -38.6743641,-3.8020381,0 -38.674922,-3.8027661,0</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
